@@ -1,2 +1,2 @@
 # python_assignment-
-Python class Assignment is class asignment for web scraping using beautfulsoup
+This is a Assignment for the Subject "Data Analysis Using Python".
