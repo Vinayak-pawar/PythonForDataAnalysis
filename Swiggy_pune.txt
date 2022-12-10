@@ -71356,3 +71356,4195 @@ Author: {gabor}
 PayPal - The safer, easier way to pay online!
 
 
+Viewer
+Text
+JSON
+statusCode : 0
+data
+pages : 48
+pageIndex : 33
+scrubber : 0
+configs
+ribbons
+PREORDER
+type : "PREORDER"
+text : "Preorder"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#d53d4c"
+bottomBackgroundColor : "#af2330"
+priority : 3
+EXCLUSIVE
+type : "EXCLUSIVE"
+text : "Exclusive"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#fa4a5b"
+bottomBackgroundColor : "#d12a3b"
+priority : 2
+NEW
+type : "NEW"
+text : "Newly Added"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#d53d4c"
+bottomBackgroundColor : "#af2330"
+priority : 4
+REPEAT
+type : "REPEAT"
+text : "Repeat"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#D53D4C"
+bottomBackgroundColor : "#B02331"
+priority : 6
+CLOUD
+type : "CLOUD"
+text : "Daily Menus"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#fa4a5b"
+bottomBackgroundColor : "#d12a3b"
+priority : 5
+PREMIUM
+type : "PREMIUM"
+text : "Premium"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#8a584b"
+bottomBackgroundColor : "#583229"
+priority : 7
+PROMOTED
+type : "PROMOTED"
+text : "Promoted"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#3a3c41"
+bottomBackgroundColor : "#1e2023"
+priority : 1
+croutons
+RAIN
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "${amount} extra levied on some restaurants"
+SERVICEABLE_WITH_BANNER_RAIN
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "rain_crouton_4x"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Few restaurants unserviceable due to rains"
+RAIN_LOW
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Your orders may be delayed by 5-10 mins"
+RAIN_HIGH
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Your orders may be delayed by 5-10 mins"
+SPECIAL
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "High Demand"
+message : "Surge fee of Rs ${amount} may be applicable"
+cards
+0
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "593497"
+name : "GetAWhey - Healthy Ice creams"
+uuid : "0e7e080d-65f7-4b4f-a60b-e2c7b3953153"
+city : "6"
+area : "Magarpatta"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "g1n6gatkcpbq8ysbr9i5"
+cuisines
+0 : "Ice Cream"
+1 : "Healthy Food"
+2 : "Desserts"
+tags
+costForTwo : 50000
+costForTwoString : "₹500 FOR TWO"
+deliveryTime : 40
+minDeliveryTime : 40
+maxDeliveryTime : 40
+slaString : "40 MINS"
+lastMileTravel : 6.400000095367432
+slugs
+restaurant : "getawhey---healthy-ice-creams-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "SR NO 150/A/1/3, SECOND FLOOR KAPARE HOUSE, MAGARPATTA RAOD, HADAPSAR, PUNE - 411028, Hadapsar, Pune PMC & Rural, Maharashtra - 411028"
+locality : "Kapare House"
+parentId : 354819
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "50% off"
+shortDescriptionList
+0
+meta : "50% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "50% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.4 kms"
+hasSurge : false
+sla
+restaurantId : "593497"
+deliveryTime : 40
+minDeliveryTime : 40
+maxDeliveryTime : 40
+lastMileTravel : 6.400000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+1
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "402909"
+name : "Hotel Al Madeena"
+uuid : "41ed5502-ee6c-438a-bc5f-63c714b2cf20"
+city : "6"
+area : "Dhanori"
+totalRatingsString : "100+ ratings"
+cloudinaryImageId : "i0coqlzywmi3o8vpatbg"
+cuisines
+0 : "North Indian"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 41
+minDeliveryTime : 41
+maxDeliveryTime : 41
+slaString : "41 MINS"
+lastMileTravel : 6.5
+slugs
+restaurant : "al-madeena-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "shop no .01/02, zaika hotal, opp hp gas agency near mad momos lan no -13, tingre nagar , dhanori, pune -411015 ,pune"
+locality : "Opp Hp Gas Agency"
+parentId : 7161
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "70% off"
+shortDescriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "70% OFF"
+shortDescriptionList
+0
+meta : ""
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.5 kms"
+hasSurge : false
+sla
+restaurantId : "402909"
+deliveryTime : 41
+minDeliveryTime : 41
+maxDeliveryTime : 41
+lastMileTravel : 6.5
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "3.8"
+totalRatings : 100
+new : false
+subtype : "basic"
+2
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "599994"
+name : "Delhi Darbar"
+uuid : "a8d2c3a1-8c18-4ee9-8963-f8cfc14c5b58"
+city : "6"
+area : "Vishrantwadi"
+totalRatingsString : "20+ ratings"
+cloudinaryImageId : "j9xvqja8bun4vbhabklm"
+cuisines
+0 : "North Indian"
+1 : "Biryani"
+tags
+costForTwo : 40000
+costForTwoString : "₹400 FOR TWO"
+deliveryTime : 43
+minDeliveryTime : 43
+maxDeliveryTime : 43
+slaString : "43 MINS"
+lastMileTravel : 6.400000095367432
+slugs
+restaurant : "delhi-darbar-vishrantwadi-vishrantwadi"
+city : "pune"
+cityState : "6"
+address : "SHOP NO.01 AND 02 OPP KEKAN GAS AGENCY SR NO.164/2D TINGRE NAGAR ROAD NO.13 AIRPORT ROAD DHANORI PUNE-411032., Pune Nagar Road & Sangamwadi, Pune, Maharashtra - 411032"
+locality : "Tingre Nagar Road"
+parentId : 3908
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "70% off"
+shortDescriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "70% OFF"
+shortDescriptionList
+0
+meta : ""
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.4 kms"
+hasSurge : false
+sla
+restaurantId : "599994"
+deliveryTime : 43
+minDeliveryTime : 43
+maxDeliveryTime : 43
+lastMileTravel : 6.400000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "3.7"
+totalRatings : 20
+new : false
+subtype : "basic"
+3
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "541850"
+name : "HOTEL NEW CHUL MUTTON"
+uuid : "7e01260a-ff75-4485-8ee4-2486d634d76d"
+city : "6"
+area : "Magarpatta"
+totalRatingsString : "20+ ratings"
+cloudinaryImageId : "wtwh4srpffgadskflrzd"
+cuisines
+0 : "Chinese"
+1 : "Biryani"
+2 : "Indian"
+tags
+costForTwo : 50000
+costForTwoString : "₹500 FOR TWO"
+deliveryTime : 47
+minDeliveryTime : 47
+maxDeliveryTime : 47
+slaString : "47 MINS"
+lastMileTravel : 6.5
+slugs
+restaurant : "hotel-new-chul-mutton-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "SURVEY NO 152, UJWA KALWA, PUNE - SOLAPUR ROAD, HADAPSAR, PUNE , MAHARASHTRA"
+locality : "Solapur Road"
+parentId : 100612
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "30% off"
+shortDescriptionList
+0
+meta : "30% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "30% off up to ₹75 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "30% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "30% off up to ₹75 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.5 kms"
+hasSurge : false
+sla
+restaurantId : "541850"
+deliveryTime : 47
+minDeliveryTime : 47
+maxDeliveryTime : 47
+lastMileTravel : 6.5
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "3.3"
+totalRatings : 20
+new : false
+subtype : "basic"
+4
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "3856"
+name : "KIMCHI"
+uuid : "74abb23f-1be1-466f-b7f9-97e38215527f"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "1000+ ratings"
+cloudinaryImageId : "nnxdos6mwk3ewmacpoow"
+cuisines
+0 : "Chinese"
+1 : "Thai"
+2 : "Malaysian"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 53
+minDeliveryTime : 53
+maxDeliveryTime : 53
+slaString : "53 MINS"
+lastMileTravel : 6.800000190734863
+slugs
+restaurant : "kimchi-magarpatta"
+city : "pune"
+cityState : "6"
+address : "Sambhaji Nagar, Opposite Hyundai Showroom, Next to HP Petrol Pump, Kharadi Road, Pune"
+locality : "Next To Icici Bank"
+parentId : 118242
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "50% off"
+shortDescriptionList
+0
+meta : "50% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "50% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.8 kms"
+hasSurge : false
+sla
+restaurantId : "3856"
+deliveryTime : 53
+minDeliveryTime : 53
+maxDeliveryTime : 53
+lastMileTravel : 6.800000190734863
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "4.3"
+totalRatings : 1000
+new : false
+subtype : "basic"
+5
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "480922"
+name : "Thali Street"
+uuid : "3dd4fd83-ef78-49ae-a1a0-159a0d6adb2a"
+city : "6"
+area : "Magarpatta"
+totalRatingsString : "20+ ratings"
+cloudinaryImageId : "ljdrubi4wo7gmyhk4nqq"
+cuisines
+0 : "Thalis"
+1 : "Indian"
+2 : "Combo"
+3 : "North Indian"
+4 : "Chinese"
+tags
+costForTwo : 25000
+costForTwoString : "₹250 FOR TWO"
+deliveryTime : 54
+minDeliveryTime : 54
+maxDeliveryTime : 54
+slaString : "54 MINS"
+lastMileTravel : 6.300000190734863
+slugs
+restaurant : "thali-street-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : " 5, P.S Angan Building, Before Magarpatta South Gate, Hadapsar"
+locality : "Hadapsar"
+parentId : 261823
+unserviceable : false
+veg : true
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "20% off"
+shortDescriptionList
+0
+meta : "20% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "20% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.3 kms"
+hasSurge : false
+sla
+restaurantId : "480922"
+deliveryTime : 54
+minDeliveryTime : 54
+maxDeliveryTime : 54
+lastMileTravel : 6.300000190734863
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "3.4"
+totalRatings : 20
+new : false
+subtype : "basic"
+6
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "68715"
+name : "Magnora"
+uuid : "5bcc4df3-1b80-4706-89c2-0afda7da0b4b"
+city : "6"
+area : "Hadapsar"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "gzbnvra92pakhxmpchcl"
+cuisines
+0 : "North Indian"
+1 : "Chinese"
+2 : "Punjabi"
+3 : "Mughlai"
+4 : "Tandoor"
+tags
+costForTwo : 35000
+costForTwoString : "₹350 FOR TWO"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+slaString : "45 MINS"
+lastMileTravel : 6.400000095367432
+slugs
+restaurant : "magnora-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "Sr No 150A/10, Tilekar Wasti, Magarpatta City, Oppo Shanti Niketan Building, Magarpatta South Gate, Hadapsar, pune PMC & Rural (Maharashtra),- 411013"
+locality : "Magarpatta"
+parentId : 129434
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "50% off"
+shortDescriptionList
+0
+meta : "50% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "50% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.4 kms"
+hasSurge : false
+sla
+restaurantId : "68715"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+lastMileTravel : 6.400000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+7
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "298217"
+name : "Tasty Indian Thalis"
+uuid : "92b5ec2d-bb39-408e-8606-19bf5acd052f"
+city : "6"
+area : "Hadapsar"
+totalRatingsString : "20+ ratings"
+cloudinaryImageId : "kihdxt72sg4wxg3bpt7b"
+cuisines
+0 : "Indian"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+slaString : "45 MINS"
+lastMileTravel : 6.400000095367432
+slugs
+restaurant : "tasty-indian-thalis-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "151, Opposite Noble Hospital, Magarpatta, Pune"
+locality : "Magarpatta"
+parentId : 202045
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use PARTY"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off | Use code PARTY"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use PARTY"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off | Use code PARTY"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.4 kms"
+hasSurge : false
+sla
+restaurantId : "298217"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+lastMileTravel : 6.400000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "3.5"
+totalRatings : 20
+new : false
+subtype : "basic"
+8
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "174065"
+name : "Amul Ice Cream Parlour"
+uuid : "ef115353-8e78-4de2-adaf-a769ba30aa06"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "20+ ratings"
+cloudinaryImageId : "vo0gvq2sa2rr4yonzjz7"
+cuisines
+0 : "Desserts"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 41
+minDeliveryTime : 41
+maxDeliveryTime : 41
+slaString : "41 MINS"
+lastMileTravel : 6.5
+slugs
+restaurant : "amul-ice-cream-parlour-kharadi"
+city : "pune"
+cityState : "6"
+address : "Shop 4, Chintamani Park, Opposite Relience Mart, Kharadi, Pune,Kharadi,Pune"
+locality : "Chintamani Park"
+parentId : 32508
+unserviceable : false
+veg : true
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.5 kms"
+hasSurge : false
+sla
+restaurantId : "174065"
+deliveryTime : 41
+minDeliveryTime : 41
+maxDeliveryTime : 41
+lastMileTravel : 6.5
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "3.5"
+totalRatings : 20
+new : false
+subtype : "basic"
+9
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "298263"
+name : "TASTE OF HYDERABADI BIRYANIS"
+uuid : "ca7997f1-df4b-4575-b874-1e0feabf5be6"
+city : "6"
+area : "Hadapsar"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "o36a2knad8zbsvkwm2ua"
+cuisines
+0 : "Indian"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+slaString : "45 MINS"
+lastMileTravel : 6.400000095367432
+slugs
+restaurant : "taste-of-hyderabadi-biryanis-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "151, Opposite Noble Hospital, Magarpatta, Pune"
+locality : "Magarpatta"
+parentId : 201596
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "50% off"
+shortDescriptionList
+0
+meta : "50% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "50% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.4 kms"
+hasSurge : false
+sla
+restaurantId : "298263"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+lastMileTravel : 6.400000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+10
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "513235"
+name : "Pizzabar Express"
+uuid : "4c7ea26e-8612-4270-944f-ed641efbbd7f"
+city : "6"
+area : "Magarpatta"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "zelcjoct5uvd7orethk9"
+cuisines
+0 : "Pizzas"
+1 : "Italian-American"
+2 : "Snacks"
+3 : "Fast Food"
+4 : "Beverages"
+tags
+costForTwo : 35000
+costForTwoString : "₹350 FOR TWO"
+deliveryTime : 47
+minDeliveryTime : 47
+maxDeliveryTime : 47
+slaString : "47 MINS"
+lastMileTravel : 6.300000190734863
+slugs
+restaurant : "pizzabar-express-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "Hadapsar Industrial Estate Rode behind vijaya sales Sevkarvasti, near railway crossing, oppo dons garage, vivek Apartment bulding C,Hadapsar,pune 411028, Hadapsar, Pune PMC & Rural, Maharashtra - 4110"
+locality : "Oppo Dons Garage"
+parentId : 306923
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.3 kms"
+hasSurge : false
+sla
+restaurantId : "513235"
+deliveryTime : 47
+minDeliveryTime : 47
+maxDeliveryTime : 47
+lastMileTravel : 6.300000190734863
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+11
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "547888"
+name : "New Punjab Rasoi Kitchen"
+uuid : "90755854-6c75-4283-9166-813f0d994ded"
+city : "6"
+area : "Vishrantwadi"
+totalRatingsString : "20+ ratings"
+cloudinaryImageId : "odwhj0ldfzhqnryxpyzh"
+cuisines
+0 : "North Indian"
+1 : "Biryani"
+2 : "Punjabi"
+3 : "Indian"
+4 : "Desserts"
+tags
+costForTwo : 34900
+costForTwoString : "₹349 FOR TWO"
+deliveryTime : 47
+minDeliveryTime : 47
+maxDeliveryTime : 47
+slaString : "47 MINS"
+lastMileTravel : 6.300000190734863
+slugs
+restaurant : "new-punjab-rasoi-kitchen-vishrantwadi-vishrantwadi"
+city : "pune"
+cityState : "6"
+address : "27-B, Jai Prakash Nagar, Tingre Nagar, Pune, Maharashtra 411032, India"
+locality : "Tingre Nagar"
+parentId : 329100
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "20% off"
+shortDescriptionList
+0
+meta : "20% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "20% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.3 kms"
+hasSurge : false
+sla
+restaurantId : "547888"
+deliveryTime : 47
+minDeliveryTime : 47
+maxDeliveryTime : 47
+lastMileTravel : 6.300000190734863
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "2.0"
+totalRatings : 20
+new : false
+subtype : "basic"
+12
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "561208"
+name : "Bali's Kitchen"
+uuid : "4517678e-753f-443e-abd4-4a275429268b"
+city : "6"
+area : "Magarpatta"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "krhik4aoyle7ujw7rick"
+cuisines
+0 : "North Indian"
+1 : "Chinese"
+2 : "Snacks"
+3 : "Beverages"
+tags
+costForTwo : 25000
+costForTwoString : "₹250 FOR TWO"
+deliveryTime : 49
+minDeliveryTime : 49
+maxDeliveryTime : 49
+slaString : "49 MINS"
+lastMileTravel : 6.300000190734863
+slugs
+restaurant : "bali's-kitchen-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "SHOP NO.-5, P.S. ANGAN BUILDING, BESIDE VIKAS HARDWARE AND ELECTRICALS, NEAR SOUTH GATE MAGARPATTA ROAD, , Hadapsar, Pune, Maharashtra-411028"
+locality : "Hadapsar"
+parentId : 337780
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "20% off"
+shortDescriptionList
+0
+meta : "20% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "20% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.3 kms"
+hasSurge : false
+sla
+restaurantId : "561208"
+deliveryTime : 49
+minDeliveryTime : 49
+maxDeliveryTime : 49
+lastMileTravel : 6.300000190734863
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+13
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "483295"
+name : "Kakke - The Dhaba"
+uuid : "25fcd9c5-7ac5-4fe4-9a06-a4c51ad03dda"
+city : "6"
+area : "Magarpatta"
+totalRatingsString : "20+ ratings"
+cloudinaryImageId : "xte8nzjmu8yhhd7jxgq0"
+cuisines
+0 : "North Indian"
+1 : "Thalis"
+2 : "Chinese"
+tags
+costForTwo : 25000
+costForTwoString : "₹250 FOR TWO"
+deliveryTime : 49
+minDeliveryTime : 49
+maxDeliveryTime : 49
+slaString : "49 MINS"
+lastMileTravel : 6.300000190734863
+slugs
+restaurant : "kakke---the-dhaba-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "5, P.S Angan Building, Before Magarpatta South Gate, Hadapsar, Pune - 411028"
+locality : "Hadapsar"
+parentId : 290126
+unserviceable : false
+veg : true
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "20% off"
+shortDescriptionList
+0
+meta : "20% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "20% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.3 kms"
+hasSurge : false
+sla
+restaurantId : "483295"
+deliveryTime : 49
+minDeliveryTime : 49
+maxDeliveryTime : 49
+lastMileTravel : 6.300000190734863
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "2.5"
+totalRatings : 20
+new : false
+subtype : "basic"
+14
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "592630"
+name : "Chai - The Way You Like It"
+uuid : "63ac032a-5280-4b1c-bdbe-24a266ba0d17"
+city : "6"
+area : "WANAWADI"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "libnmr8aplnsen411j7b"
+cuisines
+0 : "Fast Food"
+1 : "Snacks"
+2 : "Beverages"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 47
+minDeliveryTime : 47
+maxDeliveryTime : 47
+slaString : "47 MINS"
+lastMileTravel : 6.300000190734863
+slugs
+restaurant : "dev-ventures-kondhwa-kondhwa"
+city : "pune"
+cityState : "6"
+address : "Silver Crest Housing Society Rd, Fatima Nagar, Wanowrie, Pune, Maharashtra 411040"
+locality : "Fatima Nagar"
+parentId : 233
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "40% off"
+shortDescriptionList
+0
+meta : "40% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "40% off up to ₹80 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "40% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "40% off up to ₹80 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.3 kms"
+hasSurge : false
+sla
+restaurantId : "592630"
+deliveryTime : 47
+minDeliveryTime : 47
+maxDeliveryTime : 47
+lastMileTravel : 6.300000190734863
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+15
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "483273"
+name : "Chicken Habibi"
+uuid : "bcff8814-09d8-4934-8371-5b8c64b143c9"
+city : "6"
+area : "Magarpatta"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "q4mmhfmxbsf2cvfcoctf"
+cuisines
+0 : "North Indian"
+1 : "Thalis"
+2 : "Chinese"
+3 : "Fast Food"
+tags
+costForTwo : 40000
+costForTwoString : "₹400 FOR TWO"
+deliveryTime : 53
+minDeliveryTime : 53
+maxDeliveryTime : 53
+slaString : "53 MINS"
+lastMileTravel : 6.300000190734863
+slugs
+restaurant : "chicken-habibi-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : " 5, P.S Angan Building, Before Magarpatta South Gate, Hadapsar, Pune - 411028"
+locality : "Before Magarpatta South Gate"
+parentId : 290150
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "20% off"
+shortDescriptionList
+0
+meta : "20% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "20% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.3 kms"
+hasSurge : false
+sla
+restaurantId : "483273"
+deliveryTime : 53
+minDeliveryTime : 53
+maxDeliveryTime : 53
+lastMileTravel : 6.300000190734863
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+nextPageFetch : 0
+tid : "862af250-d53e-43db-92db-a49b04120ba2"
+sid : "46i60446-d699-4ede-951f-397458329369"
+deviceId : "e3af9fd3-1056-4274-00d5-1aba6f52ffb5"
+csrfToken : "nlaugeci2LQD-Tng3jqrXzo5SF3h5gZFMOaqtLoM"
+Search:	
+ 
+GO!	
+ 
+ 
+Next	
+ 
+ 
+Previous	
+ 
+Name
+Value
+bottomBackgroundColor
+"#d12a3b"
+imageId
+"sfefefefeegeg"
+priority
+5
+text
+"Daily Menus"
+textColor
+"#ffffff"
+topBackgroundColor
+"#fa4a5b"
+type
+"CLOUD"
+ 
+Online JSON Viewer
+About JSON
+JSON, short for JavaScript Object Notation, is a lightweight computer data interchange format. JSON is a text-based, human-readable format for representing simple data structures and associative arrays (called objects).
+
+Read more: json.org, wikipedia, google
+
+In JSON, they take on these forms
+JSON object
+
+JSON array
+
+JSON value
+
+JSON string
+
+JSON number
+Example
+{
+    "firstName": "John",
+    "lastName": "Smith",
+    "gender": "man",
+    "age": 32,
+    "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "212 555-1234" },
+        { "type": "fax", "number": "646 555-4567" }
+    ]
+}
+About Online JSON Viewer
+Convert JSON Strings to a Friendly Readable Format
+The application using Ext JS.
+Author: {gabor}
+
+PayPal - The safer, easier way to pay online!
+
+
+Viewer
+Text
+JSON
+statusCode : 0
+data
+pages : 48
+pageIndex : 34
+scrubber : 0
+configs
+ribbons
+PREORDER
+type : "PREORDER"
+text : "Preorder"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#d53d4c"
+bottomBackgroundColor : "#af2330"
+priority : 3
+EXCLUSIVE
+type : "EXCLUSIVE"
+text : "Exclusive"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#fa4a5b"
+bottomBackgroundColor : "#d12a3b"
+priority : 2
+NEW
+type : "NEW"
+text : "Newly Added"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#d53d4c"
+bottomBackgroundColor : "#af2330"
+priority : 4
+REPEAT
+type : "REPEAT"
+text : "Repeat"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#D53D4C"
+bottomBackgroundColor : "#B02331"
+priority : 6
+CLOUD
+type : "CLOUD"
+text : "Daily Menus"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#fa4a5b"
+bottomBackgroundColor : "#d12a3b"
+priority : 5
+PREMIUM
+type : "PREMIUM"
+text : "Premium"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#8a584b"
+bottomBackgroundColor : "#583229"
+priority : 7
+PROMOTED
+type : "PROMOTED"
+text : "Promoted"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#3a3c41"
+bottomBackgroundColor : "#1e2023"
+priority : 1
+croutons
+RAIN
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "${amount} extra levied on some restaurants"
+SERVICEABLE_WITH_BANNER_RAIN
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "rain_crouton_4x"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Few restaurants unserviceable due to rains"
+RAIN_LOW
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Your orders may be delayed by 5-10 mins"
+RAIN_HIGH
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Your orders may be delayed by 5-10 mins"
+SPECIAL
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "High Demand"
+message : "Surge fee of Rs ${amount} may be applicable"
+cards
+0
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "420676"
+name : "Master Chef"
+uuid : "17f5b021-e4fd-4ddc-9bf3-308d979afcbf"
+city : "6"
+area : "Dhanori"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "khy7hr7rm4av5rk5bsyx"
+cuisines
+0 : "North Indian"
+1 : "Chinese"
+2 : "Mughlai"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 40
+minDeliveryTime : 40
+maxDeliveryTime : 40
+slaString : "40 MINS"
+lastMileTravel : 6.5
+slugs
+restaurant : "master-chef-bhosari-bhosari"
+city : "pune"
+cityState : "6"
+address : "shop no .01/02, zaika hotal, opp hp gas agency near mad momos lan no -13, tingre nagar , dhanori, pune -411015 ,pune"
+locality : "Tingre Nagar"
+parentId : 16545
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "70% off"
+shortDescriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "70% OFF"
+shortDescriptionList
+0
+meta : ""
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.5 kms"
+hasSurge : false
+sla
+restaurantId : "420676"
+deliveryTime : 40
+minDeliveryTime : 40
+maxDeliveryTime : 40
+lastMileTravel : 6.5
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+1
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "581653"
+name : "Gandharva veg"
+uuid : "e78c4c51-43bd-43bc-8aae-02ef535c1b8d"
+city : "6"
+area : "Hadapsar"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "dv4w1bpm6gewi6ofuqev"
+cuisines
+0 : "North Indian"
+tags
+costForTwo : 50000
+costForTwoString : "₹500 FOR TWO"
+deliveryTime : 55
+minDeliveryTime : 55
+maxDeliveryTime : 55
+slaString : "55 MINS"
+lastMileTravel : 6.5
+slugs
+restaurant : "gandharva-veg-hadapsar-hadapsar"
+city : "pune"
+cityState : "6"
+address : "SHOP NO 6 SURVEY NO 181 SADE SATRA NALI ROAD HADAPSAR PUNE Hadapsar Pune Maharashtra 411028"
+locality : "Sade Satra Nali Road"
+parentId : 348268
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.5 kms"
+hasSurge : false
+sla
+restaurantId : "581653"
+deliveryTime : 55
+minDeliveryTime : 55
+maxDeliveryTime : 55
+lastMileTravel : 6.5
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+2
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "568031"
+name : "pan junction"
+uuid : "0a289112-8dee-4838-af56-01aa9e9509ad"
+city : "6"
+area : "Magarpatta"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "bk6vsu0wgxrxcm13ta9k"
+cuisines
+0 : "Paan"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+slaString : "45 MINS"
+lastMileTravel : 6.5
+slugs
+restaurant : "pan-junction-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "Near maruti suzuki showroom kirtane baug"
+locality : "Mundhva"
+parentId : 341211
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "20% off"
+shortDescriptionList
+0
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "20% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+1
+2
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.5 kms"
+hasSurge : false
+sla
+restaurantId : "568031"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+lastMileTravel : 6.5
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+3
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "298265"
+name : "Punjabi Bites"
+uuid : "5751bdf6-a0f8-4c84-9ecd-d7e368211159"
+city : "6"
+area : "Hadapsar"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "ntz72wwiuaqnqtzf2cmr"
+cuisines
+0 : "Indian"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+slaString : "44 MINS"
+lastMileTravel : 6.400000095367432
+slugs
+restaurant : "tasty-punjab-bites-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "151, Opposite Noble Hospital, Magarpatta, Pune"
+locality : "Magarpatta"
+parentId : 162127
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "50% off"
+shortDescriptionList
+0
+meta : "50% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "50% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.4 kms"
+hasSurge : false
+sla
+restaurantId : "298265"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+lastMileTravel : 6.400000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+4
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "421156"
+name : "Kamat non veg"
+uuid : "bab0f3c4-b3f3-4d12-875a-e0dca5758ddb"
+city : "6"
+area : "Dhanori"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "o73iquwobhkdvfoasavi"
+cuisines
+0 : "North Indian"
+1 : "Chinese"
+2 : "Mughlai"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 41
+minDeliveryTime : 41
+maxDeliveryTime : 41
+slaString : "41 MINS"
+lastMileTravel : 6.5
+slugs
+restaurant : "kamat-non-veg-bhosari-bhosari"
+city : "pune"
+cityState : "6"
+address : "shop no .01/02, zaika hotal, opp hp gas agency near mad momos lan no -13, tingre nagar , dhanori, pune -411015 ,pune"
+locality : "Tingre Nagar"
+parentId : 114325
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "70% off"
+shortDescriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "70% OFF"
+shortDescriptionList
+0
+meta : ""
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.5 kms"
+hasSurge : false
+sla
+restaurantId : "421156"
+deliveryTime : 41
+minDeliveryTime : 41
+maxDeliveryTime : 41
+lastMileTravel : 6.5
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+5
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "644881"
+name : "Sanskruti Pure Veg"
+uuid : "db1d3db3-aebb-4efd-9d4a-2cacc5a13de0"
+city : "6"
+area : "Viman Nagar"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "1a6969a4a2b078f62ec63dabe2fb005c"
+cuisines
+0 : "North Indian"
+1 : "South Indian"
+2 : "Chinese"
+3 : "Biryani"
+4 : "Tandoor"
+5 : "Snacks"
+6 : "Fast Food"
+7 : "Beverages"
+tags
+costForTwo : 25000
+costForTwoString : "₹250 FOR TWO"
+deliveryTime : 34
+minDeliveryTime : 34
+maxDeliveryTime : 34
+slaString : "34 MINS"
+lastMileTravel : 6.400000095367432
+slugs
+restaurant : "sanskruti-pure-veg-viman-nagar-viman-nagar"
+city : "pune"
+cityState : "6"
+address : "Shop No 1, Ground Floor, SR No 45, Near Hanuman mandir, Dharma Nagar, Nagar Pune Road, Wadgaon Sheri, 411014"
+locality : "Dharma Nagar"
+parentId : 177582
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "20% off"
+shortDescriptionList
+0
+meta : "20% off | Use JUMBO"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹100 on orders above ₹479 | Use code JUMBO"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "20% OFF"
+shortDescriptionList
+0
+meta : "Use JUMBO"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹100 on orders above ₹479 | Use code JUMBO"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.4 kms"
+hasSurge : false
+sla
+restaurantId : "644881"
+deliveryTime : 34
+minDeliveryTime : 34
+maxDeliveryTime : 34
+lastMileTravel : 6.400000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+6
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "384411"
+name : "Makhni Brothers"
+uuid : "1b5a0ce2-e9e7-419d-abc6-0f950ae9954c"
+city : "6"
+area : "Magarpatta"
+totalRatingsString : "20+ ratings"
+cloudinaryImageId : "q8dnbcfy8hic3zfdj9ev"
+cuisines
+0 : "North Indian"
+1 : "Kebabs"
+2 : "Biryani"
+3 : "Awadhi"
+4 : "Hyderabadi"
+5 : "Lucknowi"
+6 : "Mughlai"
+7 : "Desserts"
+8 : "Beverages"
+tags
+costForTwo : 35000
+costForTwoString : "₹350 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 6.599999904632568
+slugs
+restaurant : "makhni-brothers-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "Kitchen-2, Ground Floor, Survey No. 51/1A, Mundhawa, Hadpasar Road, , Hadapsar, Pune, Maharashtra-411028"
+locality : "Mundhawa"
+parentId : 10840
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "Flat ₹125 off"
+shortDescriptionList
+0
+meta : "Flat ₹125 off on orders above ₹249"
+discountType : "Flat"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "Flat ₹125 off on orders above ₹249 | Use code FLAT125"
+discountType : "Flat"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "₹125 OFF"
+shortDescriptionList
+0
+meta : "Use FLAT125"
+discountType : "Flat"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "Flat ₹125 off on orders above ₹249 | Use code FLAT125"
+discountType : "Flat"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.5 kms"
+hasSurge : false
+sla
+restaurantId : "384411"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 6.599999904632568
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "3.2"
+totalRatings : 20
+new : false
+subtype : "basic"
+7
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "166537"
+name : "Tasty Punjabi Dhaba"
+uuid : "8554ef7f-9d40-4f8c-affd-6de2101c24f3"
+city : "6"
+area : "Hadapsar"
+totalRatingsString : "100+ ratings"
+cloudinaryImageId : "yxilx0z0zv8phbguhnjy"
+cuisines
+0 : "North Indian"
+1 : "Thalis"
+2 : "Punjabi"
+3 : "Indian"
+4 : "Street Food"
+5 : "Desserts"
+6 : "Combo"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 49
+minDeliveryTime : 49
+maxDeliveryTime : 49
+slaString : "49 MINS"
+lastMileTravel : 6.599999904632568
+slugs
+restaurant : "rice-bowl-magarpatta"
+city : "pune"
+cityState : "6"
+address : "S.No. 139, Main Road, Near Bharat Petrol Pump, Magarpatta, Pune"
+locality : "Magarpatta"
+parentId : 202116
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "50% off"
+shortDescriptionList
+0
+meta : "50% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "50% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.5 kms"
+hasSurge : false
+sla
+restaurantId : "166537"
+deliveryTime : 49
+minDeliveryTime : 49
+maxDeliveryTime : 49
+lastMileTravel : 6.599999904632568
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "3.8"
+totalRatings : 100
+new : false
+subtype : "basic"
+8
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "99206"
+name : "SagarG"
+uuid : "cdddbda5-1149-476b-9ba3-de7d79fe1b5a"
+city : "6"
+area : "Hadapsar"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "plhdpjkak3hwmx9rihwn"
+cuisines
+0 : "Chinese"
+1 : "Continental"
+2 : "Beverages"
+3 : "Pastas"
+tags
+costForTwo : 40000
+costForTwoString : "₹400 FOR TWO"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+slaString : "44 MINS"
+lastMileTravel : 6.400000095367432
+slugs
+restaurant : "sagarg-hadapsar-hadapsar"
+city : "pune"
+cityState : "6"
+address : "2nd Floor, Kapare House, Sr No 150/A/1/3, Magarpatta Road, Hadapsar Gaon, Pune-411028"
+locality : "Magarpatta"
+parentId : 174539
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "30% off"
+shortDescriptionList
+0
+meta : "30% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "30% off up to ₹75 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "30% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "30% off up to ₹75 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.4 kms"
+hasSurge : false
+sla
+restaurantId : "99206"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+lastMileTravel : 6.400000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+9
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "583453"
+name : "CHINESE DRAGON PALACE"
+uuid : "c631607b-e5d2-4659-bae8-8ed5df6dab84"
+city : "6"
+area : "Magarpatta"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "lhlgo2m612ugcx8los4a"
+cuisines
+0 : "Chinese"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+slaString : "45 MINS"
+lastMileTravel : 6.400000095367432
+slugs
+restaurant : "chinese-dragon-palace-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "S NO 51/16 , SHOP NO 1 , MAGARPATTA , PUNE, Hadapsar, Pune, Maharashtra - 411028"
+locality : "Hadapsar"
+parentId : 349221
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "50% off"
+shortDescriptionList
+0
+meta : "50% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "50% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.4 kms"
+hasSurge : false
+sla
+restaurantId : "583453"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+lastMileTravel : 6.400000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+10
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "462200"
+name : "CCRAVINGS"
+uuid : "0151932e-ec11-429e-b0f7-bc6db3f7a82b"
+city : "6"
+area : "Fatimanagar, Wanwadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "h15idxcoooatx8apii9o"
+cuisines
+0 : "American"
+1 : "British"
+2 : "Beverages"
+tags
+costForTwo : 25000
+costForTwoString : "₹250 FOR TWO"
+deliveryTime : 56
+minDeliveryTime : 56
+maxDeliveryTime : 56
+slaString : "56 MINS"
+lastMileTravel : 6.400000095367432
+slugs
+restaurant : "ccravings-kondhwa-kondhwa"
+city : "pune"
+cityState : "6"
+address : "SHOP NO 17,SURVEY NO 15,KOHINOOR BUILDING,FATIMA NAGAR,PUNE - 411040"
+locality : "Survey No 15"
+parentId : 277338
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "40% off"
+shortDescriptionList
+0
+meta : "40% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "40% off up to ₹80 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "40% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "40% off up to ₹80 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.4 kms"
+hasSurge : false
+sla
+restaurantId : "462200"
+deliveryTime : 56
+minDeliveryTime : 56
+maxDeliveryTime : 56
+lastMileTravel : 6.400000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+11
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "563521"
+name : "Regal Nation"
+uuid : "e1e943b4-c748-4610-9963-1c87138abd35"
+city : "6"
+area : "HADAPSAR"
+totalRatingsString : "20+ ratings"
+cloudinaryImageId : "ggipalaetl5wuagsqcyf"
+cuisines
+0 : "North Indian"
+1 : "Biryani"
+2 : "Kebabs"
+3 : "Tandoor"
+tags
+costForTwo : 50000
+costForTwoString : "₹500 FOR TWO"
+deliveryTime : 48
+minDeliveryTime : 48
+maxDeliveryTime : 48
+slaString : "48 MINS"
+lastMileTravel : 6.5
+slugs
+restaurant : "regal-nation-hadapsar-hadapsar"
+city : "pune"
+cityState : "6"
+address : "SHOP NO 6, SURVEY NO 181, SADE SATRA NALI ROAD, HADAPSAR, PUNE, Hadapsar, Pune, Maharashtra - 411028"
+locality : "Sade Satra Nali Road"
+parentId : 339147
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.5 kms"
+hasSurge : false
+sla
+restaurantId : "563521"
+deliveryTime : 48
+minDeliveryTime : 48
+maxDeliveryTime : 48
+lastMileTravel : 6.5
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "3.8"
+totalRatings : 20
+new : false
+subtype : "basic"
+12
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "581038"
+name : "Demitasse Coffee"
+uuid : "825d3055-4337-4a35-a1c2-6d941daf5c4d"
+city : "6"
+area : "Magarpatta City"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "o5pbq8hj1efdehqvhu5c"
+cuisines
+0 : "Beverages"
+1 : "Ice Cream"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 6.400000095367432
+slugs
+restaurant : "demitasse-coffee-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "BT18 Destination Center, Beside Balaji Snacks, Magarpatta City, Hadapsar, Pune, Maharashtra 411028 "
+locality : "BT18 Destination Center"
+parentId : 347855
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "20% off"
+shortDescriptionList
+0
+meta : "20% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "20% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.4 kms"
+hasSurge : false
+sla
+restaurantId : "581038"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 6.400000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+13
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "608136"
+name : "Aarohi Snacks Centre"
+uuid : "deddb959-4b43-465b-a3c3-b0ed92b5d497"
+city : "6"
+area : "Magarpatta"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "r2bj0yefw2x3brsoo6g2"
+cuisines
+0 : "North Indian"
+1 : "South Indian"
+2 : "Chinese"
+tags
+costForTwo : 25000
+costForTwoString : "₹250 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 6.400000095367432
+slugs
+restaurant : "aarohi-snacks-centre-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "Wing B, T-18, Destination Center, Magarpatta City, Hadapsar Pune 411028, Hadapsar, Pune, Maharashtra - 411028"
+locality : "Magarpatta City"
+parentId : 361816
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "20% off"
+shortDescriptionList
+0
+meta : "20% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "20% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.4 kms"
+hasSurge : false
+sla
+restaurantId : "608136"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 6.400000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+14
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "598326"
+name : "Zaikedaar"
+uuid : "2aa3764e-6da7-44ae-9038-c6456a9dc19c"
+city : "6"
+area : "Vishrantwadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "vbxgl4uyg4vknvaz2dm3"
+cuisines
+0 : "North Indian"
+1 : "Biryani"
+tags
+costForTwo : 40000
+costForTwoString : "₹400 FOR TWO"
+deliveryTime : 43
+minDeliveryTime : 43
+maxDeliveryTime : 43
+slaString : "43 MINS"
+lastMileTravel : 6.400000095367432
+slugs
+restaurant : "zaikedaar-vishrantwadi-vishrantwadi"
+city : "pune"
+cityState : "6"
+address : "SHOP NO.01 AND 02 OPP KEKAN GAS AGENCY SR NO.164/2D TINGRE NAGAR ROAD NO.13 AIRPORT ROAD DHANORI PUNE-411032., Pune Nagar Road & Sangamwadi, Pune, Maharashtra - 411032"
+locality : "Tingre Nagar"
+parentId : 229403
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "70% off"
+shortDescriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "70% OFF"
+shortDescriptionList
+0
+meta : ""
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.4 kms"
+hasSurge : false
+sla
+restaurantId : "598326"
+deliveryTime : 43
+minDeliveryTime : 43
+maxDeliveryTime : 43
+lastMileTravel : 6.400000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+15
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "598317"
+name : "Maiden Shangai"
+uuid : "0ffcb9c8-2168-4cae-8b2a-c7bbb98d3253"
+city : "6"
+area : "Vishrantwadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "eetlro0kizm8g1bmhqtm"
+cuisines
+0 : "North Indian"
+1 : "Biryani"
+2 : "Chinese"
+3 : "Snacks"
+tags
+costForTwo : 40000
+costForTwoString : "₹400 FOR TWO"
+deliveryTime : 43
+minDeliveryTime : 43
+maxDeliveryTime : 43
+slaString : "43 MINS"
+lastMileTravel : 6.400000095367432
+slugs
+restaurant : "maiden-shangai-vishrantwadi-vishrantwadi"
+city : "pune"
+cityState : "6"
+address : "SHOP NO.01 AND 02 OPP KEKAN GAS AGENCY SR NO.164/2D TINGRE NAGAR ROAD NO.13 AIRPORT ROAD DHANORI PUNE-411032., Pune Nagar Road & Sangamwadi, Pune, Maharashtra - 411032"
+locality : "Tingre Nagar"
+parentId : 357288
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "70% off"
+shortDescriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "70% OFF"
+shortDescriptionList
+0
+meta : ""
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "70% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "6.4 kms"
+hasSurge : false
+sla
+restaurantId : "598317"
+deliveryTime : 43
+minDeliveryTime : 43
+maxDeliveryTime : 43
+lastMileTravel : 6.400000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+nextPageFetch : 0
+tid : "862af250-d53e-43db-92db-a49b04120ba2"
+sid : "46i60446-d699-4ede-951f-397458329369"
+deviceId : "e3af9fd3-1056-4274-00d5-1aba6f52ffb5"
+csrfToken : "F4UvHudoedGH-oaU-LnIW6qYlC0EfRYIt6mO4mMk"
+Search:	
+ 
+GO!	
+ 
+ 
+Next	
+ 
+ 
+Previous	
+ 
+Name
+Value
+bottomBackgroundColor
+"#af2330"
+imageId
+"sfefefefeegeg"
+priority
+4
+text
+"Newly Added"
+textColor
+"#ffffff"
+topBackgroundColor
+"#d53d4c"
+type
+"NEW"
+ 
+Online JSON Viewer
+About JSON
+JSON, short for JavaScript Object Notation, is a lightweight computer data interchange format. JSON is a text-based, human-readable format for representing simple data structures and associative arrays (called objects).
+
+Read more: json.org, wikipedia, google
+
+In JSON, they take on these forms
+JSON object
+
+JSON array
+
+JSON value
+
+JSON string
+
+JSON number
+Example
+{
+    "firstName": "John",
+    "lastName": "Smith",
+    "gender": "man",
+    "age": 32,
+    "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "212 555-1234" },
+        { "type": "fax", "number": "646 555-4567" }
+    ]
+}
+About Online JSON Viewer
+Convert JSON Strings to a Friendly Readable Format
+The application using Ext JS.
+Author: {gabor}
+
+PayPal - The safer, easier way to pay online!
+
+
