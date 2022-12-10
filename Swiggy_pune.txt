@@ -94215,3 +94215,7711 @@ Author: {gabor}
 PayPal - The safer, easier way to pay online!
 
 
+Viewer
+Text
+JSON
+statusCode : 0
+data
+pages : 48
+pageIndex : 44
+scrubber : 0
+configs
+ribbons
+PREORDER
+type : "PREORDER"
+text : "Preorder"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#d53d4c"
+bottomBackgroundColor : "#af2330"
+priority : 3
+EXCLUSIVE
+type : "EXCLUSIVE"
+text : "Exclusive"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#fa4a5b"
+bottomBackgroundColor : "#d12a3b"
+priority : 2
+NEW
+type : "NEW"
+text : "Newly Added"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#d53d4c"
+bottomBackgroundColor : "#af2330"
+priority : 4
+REPEAT
+type : "REPEAT"
+text : "Repeat"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#D53D4C"
+bottomBackgroundColor : "#B02331"
+priority : 6
+CLOUD
+type : "CLOUD"
+text : "Daily Menus"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#fa4a5b"
+bottomBackgroundColor : "#d12a3b"
+priority : 5
+PREMIUM
+type : "PREMIUM"
+text : "Premium"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#8a584b"
+bottomBackgroundColor : "#583229"
+priority : 7
+PROMOTED
+type : "PROMOTED"
+text : "Promoted"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#3a3c41"
+bottomBackgroundColor : "#1e2023"
+priority : 1
+croutons
+RAIN
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "${amount} extra levied on some restaurants"
+SERVICEABLE_WITH_BANNER_RAIN
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "rain_crouton_4x"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Few restaurants unserviceable due to rains"
+RAIN_LOW
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Your orders may be delayed by 5-10 mins"
+RAIN_HIGH
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Your orders may be delayed by 5-10 mins"
+SPECIAL
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "High Demand"
+message : "Surge fee of Rs ${amount} may be applicable"
+cards
+0
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "646099"
+name : "Bistro Burger"
+uuid : "1b0c01e8-6607-456a-83b2-32ea54a87429"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "523e586458501178a6ebaf7a61522fda"
+cuisines
+0 : "Burgers"
+tags
+costForTwo : 40000
+costForTwoString : "₹400 FOR TWO"
+deliveryTime : 48
+minDeliveryTime : 48
+maxDeliveryTime : 48
+slaString : "48 MINS"
+lastMileTravel : 7.599999904632568
+slugs
+restaurant : "bistro-burger-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "Shop No. 2, CHOUDHARI WASTI, OPPOSITE TUSCAN ESTATE, KHARADI, Haveli- South of Mutha River, Pune, Maharashtra, 411014"
+locality : "Tuscan esate"
+parentId : 369313
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "60% off"
+shortDescriptionList
+0
+meta : "60% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "60% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.5 kms"
+hasSurge : false
+sla
+restaurantId : "646099"
+deliveryTime : 48
+minDeliveryTime : 48
+maxDeliveryTime : 48
+lastMileTravel : 7.599999904632568
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+1
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "646097"
+name : "Beef Burger Place"
+uuid : "a2c149cb-b7cd-4c1b-8c20-11cf23733fa3"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "523e586458501178a6ebaf7a61522fda"
+cuisines
+0 : "Burgers"
+tags
+costForTwo : 40000
+costForTwoString : "₹400 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.599999904632568
+slugs
+restaurant : "beef-burger-place-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "CHOUDHARI WASTI, OPPOSITE TUSCAN ESTATE, KHARADI, Haveli- South of Mutha River, Pune, , Maharashtra, 411014"
+locality : "Tuscan esate"
+parentId : 389631
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "60% off"
+shortDescriptionList
+0
+meta : "60% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "60% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.5 kms"
+hasSurge : false
+sla
+restaurantId : "646097"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.599999904632568
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+2
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "41611"
+name : "Jashn E Punjab"
+uuid : "7d79b03d-2465-43bd-aba1-bf6cf0e9b02d"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "ptoqjphxdrlxoanflo7f"
+cuisines
+0 : "North Indian"
+1 : "Chinese"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.599999904632568
+slugs
+restaurant : "jashn-e-punjab-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "Opposite zensar IT tower,Next to fassos kharadi"
+locality : "Kharadi"
+parentId : 5246
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "40% off"
+shortDescriptionList
+0
+meta : "40% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "40% off up to ₹80 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "40% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "40% off up to ₹80 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.5 kms"
+hasSurge : false
+sla
+restaurantId : "41611"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.599999904632568
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+3
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "552750"
+name : "Savlahari Ice-Cream and Mastani"
+uuid : "fc2fb0d4-81a5-47fd-85f7-b52e5db84300"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "vx6pukpovcwf2dvlnhwn"
+cuisines
+0 : "Ice Cream"
+1 : "Desserts"
+2 : "Indian"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+slaString : "44 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "bayaja-food-enterprises-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "SHOP NO.3, OM GALAXY CO-OP HOUSING SOCIETY, OPPOSITE ZENSAR IT PARK, KHARADI, PUNE-411014, Pune Nagar Road & Sangamwadi, Pune PMC, Maharashtra -"
+locality : "Pune Nagar Road"
+parentId : 332526
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "552750"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+4
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "615737"
+name : "CRAZY CHINA RESTAURANT"
+uuid : "f6d1ee11-6804-4503-9ba7-c9afa9669e84"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "a0g2jbxmlfjzbo1b18hb"
+cuisines
+0 : "Chinese"
+1 : "Snacks"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "crazy-china-restaurant-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S.NO.6/2,NEAR SBI TOUCH, OPPOSITE ZENSAR IT PARK, KHARADI SOUTH MAIN ROAD, NEAR TELEPHONIC EXCHANGE, KHARADI,, Pune Nagar Road & Sangamwadi, Pune, , Maharashtra, 411014"
+locality : "Opposite Zensar It Park"
+parentId : 367307
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "60% off"
+shortDescriptionList
+0
+meta : "60% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "60% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "615737"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+5
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "341765"
+name : "ANNA DOSA POINT"
+uuid : "f94c51a8-3091-4214-9943-70b0634f40c5"
+city : "6"
+area : "Wanwadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "bmiwqlr0zgaebyqu2gw0"
+cuisines
+0 : "South Indian"
+1 : "Beverages"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 54
+minDeliveryTime : 54
+maxDeliveryTime : 54
+slaString : "54 MINS"
+lastMileTravel : 7.599999904632568
+slugs
+restaurant : "anna-dosa-point-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "Shop 97, 2nd Floor, 93 Avenue Mall, Kalubai Chowk, Near Fatima Nagar Junction, Opposite Croma, Hadapsar, Pune"
+locality : "Magarpatta"
+parentId : 33780
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "30% off"
+shortDescriptionList
+0
+meta : "30% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "30% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "30% OFF"
+shortDescriptionList
+0
+meta : ""
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "30% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.5 kms"
+hasSurge : false
+sla
+restaurantId : "341765"
+deliveryTime : 54
+minDeliveryTime : 54
+maxDeliveryTime : 54
+lastMileTravel : 7.599999904632568
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+6
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "493580"
+name : "The Shrikand Studio, Arav Foods"
+uuid : "157bca3f-947d-4509-b8e7-91b0a2596a2a"
+city : "6"
+area : "Swargate"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "u4gpwrgliccznbza7n1d"
+cuisines
+0 : "Desserts"
+tags
+costForTwo : 10000
+costForTwoString : "₹100 FOR TWO"
+deliveryTime : 49
+minDeliveryTime : 49
+maxDeliveryTime : 49
+slaString : "49 MINS"
+lastMileTravel : 7.599999904632568
+slugs
+restaurant : "the-shrikand-studio,-arav-foods-swargate-swargate"
+city : "pune"
+cityState : "6"
+address : "Aksash Center, Tilak Road, Lokmanya Bal Gangadhar Tilak Rd, Subhash Nagar, Shukrawar Peth, Pune, Maharashtra 411002, India"
+locality : "Subhash Nagar"
+parentId : 295967
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.5 kms"
+hasSurge : false
+sla
+restaurantId : "493580"
+deliveryTime : 49
+minDeliveryTime : 49
+maxDeliveryTime : 49
+lastMileTravel : 7.599999904632568
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+7
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "639866"
+name : "Khichadi Junction"
+uuid : "92c5e232-f99c-463b-ac95-4902248c3353"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "yqq0e3qqwl1zxswao6ga"
+cuisines
+0 : "Indian"
+1 : "Fast Food"
+2 : "Salads"
+3 : "Sweets"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.599999904632568
+slugs
+restaurant : "khichadi-junction-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S.No 41, Shop no. 8, CHOUDHARI WASTI, OPPOSITE TUSCAN ESTATE, KHARADI, Pune Nagar Road & Sangamwadi, Pune, , Maharashtra, 411014"
+locality : "Tuscan estate"
+parentId : 386003
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.5 kms"
+hasSurge : false
+sla
+restaurantId : "639866"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.599999904632568
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+8
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "639864"
+name : "Khichadi Express"
+uuid : "b59b8941-8058-49d0-aa0c-f85f57c71a3b"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "tn1xwcuitemtlvw4to5i"
+cuisines
+0 : "Indian"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.599999904632568
+slugs
+restaurant : "khichadi-express-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "Shop no. 2, CHOUDHARI WASTI,S.No 41, OPPOSITE TUSCAN ESTATE, KHARADI - B, PUNE CITY,, Pune Nagar Road & Sangamwadi, Pune, , Maharashtra, 411014"
+locality : "Tuscan estate"
+parentId : 117794
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.5 kms"
+hasSurge : false
+sla
+restaurantId : "639864"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.599999904632568
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+9
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "639862"
+name : "Rajeshahi Veg Non-veg"
+uuid : "7ceb10ff-7b13-4e00-960a-5663207d2058"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "fo7sww3lqruyogdeme0e"
+cuisines
+0 : "North Indian"
+1 : "Snacks"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.599999904632568
+slugs
+restaurant : "rajeshahi-veg-non-veg-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S.No 41, Shop no. 8, CHOUDHARI WASTI, OPPOSITE TUSCAN ESTATE, KHARADI, Pune Nagar Road & Sangamwadi, Pune, , Maharashtra, 411014"
+locality : "Tuscan estate"
+parentId : 386023
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.5 kms"
+hasSurge : false
+sla
+restaurantId : "639862"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.599999904632568
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+10
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "316646"
+name : "Homely Freshly Daily"
+uuid : "6ddf4227-ed6e-4b6a-a3a5-6d8f31cf52ad"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "cfqhdfkopsfvusxfgoqx"
+cuisines
+0 : "Thalis"
+1 : "Combo"
+2 : "Indian"
+3 : "Chinese"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.599999904632568
+slugs
+restaurant : "homely-freshly-daily-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "Sr. No 6/2/23, Opposite Zensar IT park, South main road, Kharadi, Haveli, Pune- 411014, Pune Nagar Road & Sangamwadi, Pune PMC (Maharashtra), - 411014"
+locality : "Kharadi"
+parentId : 96680
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "40% off"
+shortDescriptionList
+0
+meta : "40% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "40% off up to ₹80 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "40% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "40% off up to ₹80 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.5 kms"
+hasSurge : false
+sla
+restaurantId : "316646"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.599999904632568
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+11
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "626908"
+name : "PCubes Pure Veg FC Road"
+uuid : "39b5d51d-3e82-4cec-bf46-65796f6f3e71"
+city : "6"
+area : "Shivaji Nagar"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "sd3ajy9zh5t6oaoqf0b3"
+cuisines
+0 : "Beverages"
+tags
+costForTwo : 40000
+costForTwoString : "₹400 FOR TWO"
+deliveryTime : 51
+minDeliveryTime : 51
+maxDeliveryTime : 51
+slaString : "51 MINS"
+lastMileTravel : 7.599999904632568
+slugs
+restaurant : "pcubes-pure-veg"-fc-road-shivaji-nagar-shivaji-nagar"
+city : "pune"
+cityState : "6"
+address : "SHOP NO.8,9,10 & 11,CTS NO.1227,FC \\r\\nROAD,SHANTI PLAZA \\r\\nBUILDING,SHIVAJINAGAR,PUNE-411004\\r\\n, Ghole Road, Pune, Maharashtra-411004"
+locality : "Ghole Road"
+parentId : 375774
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.5 kms"
+hasSurge : false
+sla
+restaurantId : "626908"
+deliveryTime : 51
+minDeliveryTime : 51
+maxDeliveryTime : 51
+lastMileTravel : 7.599999904632568
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+12
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "646102"
+name : "The Burger Menia"
+uuid : "98d40f34-df35-430c-9bdc-d2bf89d21de8"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "523e586458501178a6ebaf7a61522fda"
+cuisines
+0 : "Burgers"
+tags
+costForTwo : 40000
+costForTwoString : "₹400 FOR TWO"
+deliveryTime : 54
+minDeliveryTime : 54
+maxDeliveryTime : 54
+slaString : "54 MINS"
+lastMileTravel : 7.599999904632568
+slugs
+restaurant : "the-burger-menia-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "Shop No. 5, CHOUDHARI WASTI, OPPOSITE TUSCAN ESTATE, KHARADI, Haveli- South of Mutha River, Pune, , Maharashtra, 411014"
+locality : "Tuscan esate"
+parentId : 389633
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "60% off"
+shortDescriptionList
+0
+meta : "60% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "60% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.5 kms"
+hasSurge : false
+sla
+restaurantId : "646102"
+deliveryTime : 54
+minDeliveryTime : 54
+maxDeliveryTime : 54
+lastMileTravel : 7.599999904632568
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+13
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "413450"
+name : "ROLL DELIGHTS"
+uuid : "21224ec8-f1bf-4252-ae63-54cbf163c757"
+city : "6"
+area : "Hadapsar"
+totalRatingsString : "50+ ratings"
+cloudinaryImageId : "mw82otwehkjsrse96nax"
+cuisines
+0 : "Fast Food"
+tags
+costForTwo : 40000
+costForTwoString : "₹400 FOR TWO"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+slaString : "45 MINS"
+lastMileTravel : 7.900000095367432
+slugs
+restaurant : "roll-delights-hadapsar-hadapsar"
+city : "pune"
+cityState : "6"
+address : "Shop No. 1, Siyona Hights, Sr. No 161, Bhosalenagar, Near Bhosale Garden, Hadapsar, Pune. 411028"
+locality : "Bhosalenagar"
+parentId : 4229
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.9 kms"
+hasSurge : false
+sla
+restaurantId : "413450"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+lastMileTravel : 7.900000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "4.0"
+totalRatings : 50
+new : false
+subtype : "basic"
+14
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "208223"
+name : "Nanumal Bhojraj"
+uuid : "36e141d2-6fa3-4248-b503-06722fdc4918"
+city : "6"
+area : "Shukrawar Peth"
+totalRatingsString : "500+ ratings"
+cloudinaryImageId : "jqrdibv9km82otfqe1ax"
+cuisines
+0 : "Chinese"
+1 : "North Indian"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 51
+minDeliveryTime : 51
+maxDeliveryTime : 51
+slaString : "51 MINS"
+lastMileTravel : 8
+slugs
+restaurant : "nanumal-bhojraj-swargate-swargate"
+city : "pune"
+cityState : "6"
+address : "Lokmanya Bal Gangadhar Tilak Road Subhash Nagar Shukrawar Peth Pune Maharashtra India"
+locality : "Swargate"
+parentId : 2509
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "50% off"
+shortDescriptionList
+0
+meta : "50% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "50% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 8400
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 8400
+message : ""
+title : "Delivery Charge"
+amount : "8400"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "8 kms"
+hasSurge : false
+sla
+restaurantId : "208223"
+deliveryTime : 51
+minDeliveryTime : 51
+maxDeliveryTime : 51
+lastMileTravel : 8
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "3.9"
+totalRatings : 500
+new : false
+subtype : "basic"
+15
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "638441"
+name : "Chinese Junction"
+uuid : "07073c7a-5b41-48c5-b7d8-60783ade2163"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "ch3pjek9olzthexvczka"
+cuisines
+0 : "Chinese"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "chinese-junction-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "NEAR SBI TOUCH, S.NO.6/2, SHOP NO.3, OPPOSITE ZENSAR IT PARK, KHARADI SOUTH MAIN ROAD, NEAR TELEPHONIC EXCHANGE, KHARADI, Pune Nagar Road & Sangamwadi, Pune, , Maharashtra, 411014"
+locality : "Zensar IT Park"
+parentId : 14386
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "60% off"
+shortDescriptionList
+0
+meta : "60% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "60% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "638441"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+nextPageFetch : 0
+tid : "862af250-d53e-43db-92db-a49b04120ba2"
+sid : "46i60446-d699-4ede-951f-397458329369"
+deviceId : "e3af9fd3-1056-4274-00d5-1aba6f52ffb5"
+csrfToken : "s5gSgpAB9GLb-xERR48nJVIURP4ejSHO_Li1HI6c"
+Search:	
+ 
+GO!	
+ 
+ 
+Next	
+ 
+ 
+Previous	
+ 
+Name
+Value
+bottomBackgroundColor
+"#d12a3b"
+imageId
+"sfefefefeegeg"
+priority
+2
+text
+"Exclusive"
+textColor
+"#ffffff"
+topBackgroundColor
+"#fa4a5b"
+type
+"EXCLUSIVE"
+ 
+Online JSON Viewer
+About JSON
+JSON, short for JavaScript Object Notation, is a lightweight computer data interchange format. JSON is a text-based, human-readable format for representing simple data structures and associative arrays (called objects).
+
+Read more: json.org, wikipedia, google
+
+In JSON, they take on these forms
+JSON object
+
+JSON array
+
+JSON value
+
+JSON string
+
+JSON number
+Example
+{
+    "firstName": "John",
+    "lastName": "Smith",
+    "gender": "man",
+    "age": 32,
+    "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "212 555-1234" },
+        { "type": "fax", "number": "646 555-4567" }
+    ]
+}
+About Online JSON Viewer
+Convert JSON Strings to a Friendly Readable Format
+The application using Ext JS.
+Author: {gabor}
+
+PayPal - The safer, easier way to pay online!
+
+
+Viewer
+Text
+JSON
+statusCode : 0
+data
+pages : 48
+pageIndex : 45
+scrubber : 0
+configs
+ribbons
+PREORDER
+type : "PREORDER"
+text : "Preorder"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#d53d4c"
+bottomBackgroundColor : "#af2330"
+priority : 3
+EXCLUSIVE
+type : "EXCLUSIVE"
+text : "Exclusive"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#fa4a5b"
+bottomBackgroundColor : "#d12a3b"
+priority : 2
+NEW
+type : "NEW"
+text : "Newly Added"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#d53d4c"
+bottomBackgroundColor : "#af2330"
+priority : 4
+REPEAT
+type : "REPEAT"
+text : "Repeat"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#D53D4C"
+bottomBackgroundColor : "#B02331"
+priority : 6
+CLOUD
+type : "CLOUD"
+text : "Daily Menus"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#fa4a5b"
+bottomBackgroundColor : "#d12a3b"
+priority : 5
+PREMIUM
+type : "PREMIUM"
+text : "Premium"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#8a584b"
+bottomBackgroundColor : "#583229"
+priority : 7
+PROMOTED
+type : "PROMOTED"
+text : "Promoted"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#3a3c41"
+bottomBackgroundColor : "#1e2023"
+priority : 1
+croutons
+RAIN
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "${amount} extra levied on some restaurants"
+SERVICEABLE_WITH_BANNER_RAIN
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "rain_crouton_4x"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Few restaurants unserviceable due to rains"
+RAIN_LOW
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Your orders may be delayed by 5-10 mins"
+RAIN_HIGH
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Your orders may be delayed by 5-10 mins"
+SPECIAL
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "High Demand"
+message : "Surge fee of Rs ${amount} may be applicable"
+cards
+0
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629367"
+name : "Mama Shawarma"
+uuid : "bddf2eab-ad45-4ba6-a71b-e1281f17719e"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "gzvcaq0llli5tl2fn404"
+cuisines
+0 : "Arabian"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 48
+minDeliveryTime : 48
+maxDeliveryTime : 48
+slaString : "48 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "mama-shawarma-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, SHOP NO.1, AL ZOHRA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI - 411014, Pune Nagar Road & Sangamwadi, Pune, Maharashtra, 411014"
+locality : "Al Zohra"
+parentId : 375925
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629367"
+deliveryTime : 48
+minDeliveryTime : 48
+maxDeliveryTime : 48
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+1
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "638109"
+name : "Dragon Wok Express"
+uuid : "5ce65fa5-883e-4e0d-b55d-7e8afe349785"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "ne2djqlamld1ztmsro94"
+cuisines
+0 : "Chinese"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "dragon-wok-express-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S.NO.6/2,NEAR SBI TOUCH, OPPOSITE ZENSAR IT PARK, KHARADI SOUTH MAIN ROAD, NEAR TELEPHONIC EXCHANGE, KHARADI,, Pune Nagar Road & Sangamwadi, Pune, , Maharashtra, 411014"
+locality : "Pune Nagar Road & Sangamwadi"
+parentId : 346698
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "60% off"
+shortDescriptionList
+0
+meta : "60% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "60% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "638109"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+2
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629368"
+name : "Cozy Shawarma"
+uuid : "d9ac506f-e37f-45a0-8fe7-1427ccf7d144"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "lfsiesbtza5ksg2fvpej"
+cuisines
+0 : "Snacks"
+1 : "Indian"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+slaString : "45 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "cozy-shawarma-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, SHOP NO.2, AL ZOHRA, OM VILLA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI - 411014, Pune Nagar Road & Sangamwadi, Pune, Maharashtra, 411014"
+locality : "Al Zohra"
+parentId : 375929
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629368"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+3
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "605593"
+name : "Miya Bhai's kitchen"
+uuid : "24ba7762-04d2-4fd1-97b7-12290e1ef12d"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "iqdk8pdusyosviievu65"
+cuisines
+0 : "Indian"
+tags
+costForTwo : 60000
+costForTwoString : "₹600 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "miya-bhai's-kitchen-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, SHOP NO.3, AL ZOHRA, OM VILLA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI - 411014, Pune Nagar Road & Sangamwadi, Pune, , Maharashtra, 411014"
+locality : "Near Zensar It Tower"
+parentId : 137284
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "605593"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+4
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "334603"
+name : "MONALISSA CAKE STUDIO"
+uuid : "beb740b1-406d-44b9-bc71-5545c64fec03"
+city : "6"
+area : "Hadapsar"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "vkyoepiolbaolxtr1zm6"
+cuisines
+0 : "Desserts"
+1 : "Bakery"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 54
+minDeliveryTime : 54
+maxDeliveryTime : 54
+slaString : "54 MINS"
+lastMileTravel : 7.800000190734863
+slugs
+restaurant : "monalissa-cake-studio-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "Keshav Chowk, Near Marvel Bounty Yash Hospital, Malwadi, Hadapsar, District - Pune PMC & Rural, STATE - Maharashtra 411028"
+locality : "Magarpatta"
+parentId : 138679
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "30% off"
+shortDescriptionList
+0
+meta : "30% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "30% off up to ₹75 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "30% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "30% off up to ₹75 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.8 kms"
+hasSurge : false
+sla
+restaurantId : "334603"
+deliveryTime : 54
+minDeliveryTime : 54
+maxDeliveryTime : 54
+lastMileTravel : 7.800000190734863
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+5
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "638438"
+name : "The China Foods"
+uuid : "96a9c8de-fbf2-4d85-92c4-36349f2a2338"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "zr7ifsxpa6v4cmmcfptv"
+cuisines
+0 : "Chinese"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "the-china-foods-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "SHOP NO.1, NEAR SBI TOUCH, S.NO.6/2, OPPOSITE ZENSAR IT PARK, KHARADI SOUTH MAIN ROAD, NEAR TELEPHONIC EXCHANGE, KHARADI,, Pune Nagar Road & Sangamwadi, Pune, Maharashtra - 411014"
+locality : "Zensar IT Park"
+parentId : 385331
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "60% off"
+shortDescriptionList
+0
+meta : "60% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "60% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "638438"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+6
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "638445"
+name : "Foodies Center"
+uuid : "35f57197-dcc2-44ea-86fb-89bb2f655d8e"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "hcqd4efwiin9f5cz2odt"
+cuisines
+0 : "Chinese"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "foodies-center-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "SHOP NO.1, NEAR SBI TOUCH, S.NO.6/2, OPPOSITE ZENSAR IT PARK, KHARADI SOUTH MAIN ROAD, NEAR TELEPHONIC EXCHANGE, KHARADI,, Pune Nagar Road & Sangamwadi, Pune, Maharashtra - 411014"
+locality : "Zensar IT Park"
+parentId : 385332
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "60% off"
+shortDescriptionList
+0
+meta : "60% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "60% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "638445"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+7
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "638446"
+name : "New China Bistro"
+uuid : "d8ecda7d-c6a4-4c84-b4db-e53b296f1705"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "rotxjw0rgdquds3xb05b"
+cuisines
+0 : "Chinese"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "new-china-bistro-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S.NO.6/2,NEAR SBI TOUCH, OPPOSITE ZENSAR IT PARK, KHARADI SOUTH MAIN ROAD, NEAR TELEPHONIC EXCHANGE, KHARADI,, Pune Nagar Road & Sangamwadi, Pune, , Maharashtra, 411014"
+locality : "Zensar IT Park"
+parentId : 385337
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "60% off"
+shortDescriptionList
+0
+meta : "60% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "60% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "60% off up to ₹120 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "638446"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+8
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629510"
+name : "Noura Shawarma"
+uuid : "9d1ba5c2-6d6e-4943-afd8-b959d6b35846"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "aittt5x3wcdd4sh3cl2f"
+cuisines
+0 : "Snacks"
+1 : "Indian"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "noura-shawarma-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, SHOP NO.7, AL ZOHRA, OM VILLA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI - 411014, Pune Nagar Road & Sangamwadi, Pune, Maharashtra, 411014"
+locality : "Om Villa"
+parentId : 376037
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629510"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+9
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629513"
+name : "Shawarma Kebab"
+uuid : "d9f27e65-fcac-427d-b336-56b1fc06353a"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "h6q3o6nacvqgn1cknm8v"
+cuisines
+0 : "Arabian"
+1 : "Snacks"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "shawarma-kebab-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, SHOP NO.6, AL ZOHRA, OM VILLA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI - 411014, Pune Nagar Road & Sangamwadi, Pune, Maharashtra, 411014"
+locality : "Al Zohra"
+parentId : 375986
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629513"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+10
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629514"
+name : "Food Aroma Shawarma"
+uuid : "580bf0a1-3c5b-4211-ad34-49fe24e9c62b"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "dzg9rn9wucmtekv6xtw9"
+cuisines
+0 : "Snacks"
+1 : "Indian"
+2 : "Fast Food"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+slaString : "44 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "food-aroma-shawarma-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "AL ZOHRA, OM VILLA, S No. 6/2, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI, , Pune Nagar Road & Sangamwadi, Pune, , Maharashtra, 411014"
+locality : "Al Zohra"
+parentId : 375997
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629514"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+11
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629515"
+name : "Ismail Shawarma"
+uuid : "01d878a0-d472-480a-9be2-3477bc2298a4"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "ijxifp0yf0hrroh7jnjk"
+cuisines
+0 : "Arabian"
+1 : "Beverages"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "ismail-shawarma-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, Shop no.2, AL ZOHRA, OM VILLA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI, , Pune Nagar Road & Sangamwadi, Pune, , Maharashtra, 411014"
+locality : "Al Zohra"
+parentId : 375987
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629515"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+12
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629516"
+name : "Shawarma London"
+uuid : "3e2c19fe-4d0d-48b3-be0f-f519f45aad2b"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "e0tufef9sloiln8elvnc"
+cuisines
+0 : "Arabian"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 56
+minDeliveryTime : 56
+maxDeliveryTime : 56
+slaString : "56 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "shawarma-london-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "OM VILLA, S No. 6/2, AL ZOHRA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI,, Pune Nagar Road & Sangamwadi, Pune, , Maharashtra, 411014"
+locality : "Zohra"
+parentId : 375988
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629516"
+deliveryTime : 56
+minDeliveryTime : 56
+maxDeliveryTime : 56
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+13
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629430"
+name : "Emperor Shawarma"
+uuid : "eac98302-5f49-40be-94ee-2b5de4faab2a"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "aqux6ouk7ecnrgth9zq0"
+cuisines
+0 : "Snacks"
+1 : "Indian"
+2 : "Fast Food"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "emperor-shawarma-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, SHOP NO.1 , AL ZOHRA, OM VILLA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI, , Pune Nagar Road & Sangamwadi, Pune, ,Maharashtra, 411014"
+locality : "S No. 6/2,Shop No.1"
+parentId : 375936
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629430"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+14
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629431"
+name : "Super Shawarma"
+uuid : "e8b75737-8115-407e-8e95-4ebd6a017817"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "pwdpayoxyhwivknlnnbs"
+cuisines
+0 : "Snacks"
+1 : "Indian"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "super-shawarma-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, SHOP NO.6, AL ZOHRA, OM VILLA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI - 411014, Pune Nagar Road & Sangamwadi, Pune, Maharashtra, 411014"
+locality : "Al Zohra"
+parentId : 197470
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629431"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+15
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629432"
+name : "Shawarma Restaurant"
+uuid : "565ceb8a-270b-40f9-879f-48a9e277447c"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "wtaeqmee0kn52caz5gw1"
+cuisines
+0 : "Snacks"
+1 : "Indian"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+slaString : "44 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "shawarma-restaurant-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, SHOP NO.5, AL ZOHRA, OM VILLA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI - 411014, Pune Nagar Road & Sangamwadi, Pune, Maharashtra, 411014"
+locality : "Al Zohra"
+parentId : 375940
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629432"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+nextPageFetch : 0
+tid : "862af250-d53e-43db-92db-a49b04120ba2"
+sid : "46i60446-d699-4ede-951f-397458329369"
+deviceId : "e3af9fd3-1056-4274-00d5-1aba6f52ffb5"
+csrfToken : "CXqTkFfVFIQS-p8pXzOYQQ0oZv-fL73AS6tWNlo8"
+Search:	
+ 
+GO!	
+ 
+ 
+Next	
+ 
+ 
+Previous	
+ 
+Name
+Value
+bottomBackgroundColor
+"#d12a3b"
+imageId
+"sfefefefeegeg"
+priority
+5
+text
+"Daily Menus"
+textColor
+"#ffffff"
+topBackgroundColor
+"#fa4a5b"
+type
+"CLOUD"
+ 
+Online JSON Viewer
+About JSON
+JSON, short for JavaScript Object Notation, is a lightweight computer data interchange format. JSON is a text-based, human-readable format for representing simple data structures and associative arrays (called objects).
+
+Read more: json.org, wikipedia, google
+
+In JSON, they take on these forms
+JSON object
+
+JSON array
+
+JSON value
+
+JSON string
+
+JSON number
+Example
+{
+    "firstName": "John",
+    "lastName": "Smith",
+    "gender": "man",
+    "age": 32,
+    "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "212 555-1234" },
+        { "type": "fax", "number": "646 555-4567" }
+    ]
+}
+About Online JSON Viewer
+Convert JSON Strings to a Friendly Readable Format
+The application using Ext JS.
+Author: {gabor}
+
+PayPal - The safer, easier way to pay online!
+
+
+Viewer
+Text
+JSON
+statusCode : 0
+data
+pages : 48
+pageIndex : 46
+scrubber : 0
+configs
+ribbons
+PREORDER
+type : "PREORDER"
+text : "Preorder"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#d53d4c"
+bottomBackgroundColor : "#af2330"
+priority : 3
+EXCLUSIVE
+type : "EXCLUSIVE"
+text : "Exclusive"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#fa4a5b"
+bottomBackgroundColor : "#d12a3b"
+priority : 2
+NEW
+type : "NEW"
+text : "Newly Added"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#d53d4c"
+bottomBackgroundColor : "#af2330"
+priority : 4
+REPEAT
+type : "REPEAT"
+text : "Repeat"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#D53D4C"
+bottomBackgroundColor : "#B02331"
+priority : 6
+CLOUD
+type : "CLOUD"
+text : "Daily Menus"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#fa4a5b"
+bottomBackgroundColor : "#d12a3b"
+priority : 5
+PREMIUM
+type : "PREMIUM"
+text : "Premium"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#8a584b"
+bottomBackgroundColor : "#583229"
+priority : 7
+PROMOTED
+type : "PROMOTED"
+text : "Promoted"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#3a3c41"
+bottomBackgroundColor : "#1e2023"
+priority : 1
+croutons
+RAIN
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "${amount} extra levied on some restaurants"
+SERVICEABLE_WITH_BANNER_RAIN
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "rain_crouton_4x"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Few restaurants unserviceable due to rains"
+RAIN_LOW
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Your orders may be delayed by 5-10 mins"
+RAIN_HIGH
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Your orders may be delayed by 5-10 mins"
+SPECIAL
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "High Demand"
+message : "Surge fee of Rs ${amount} may be applicable"
+cards
+0
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629435"
+name : "Shawarma Shish Tawooq "
+uuid : "079be644-2b6a-438c-8dd1-f14e23dfe1af"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "fhgaquiawy5vnxtmqhej"
+cuisines
+0 : "Arabian"
+1 : "Chinese"
+2 : "Salads"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "shawarma-shish-tawooq-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, SHOP NO.3, AL ZOHRA, OM VILLA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI - 411014, Pune Nagar Road & Sangamwadi, Pune, Maharashtra, 411014"
+locality : "Al Zohra"
+parentId : 375939
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629435"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+1
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629436"
+name : "Shawarma Story"
+uuid : "6fbe5d19-f0c8-486d-a4a6-5e288842c89e"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "w1xcy6al5ztzbw4ixycb"
+cuisines
+0 : "Indian"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+slaString : "44 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "shawarma-story-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, SHOP NO.1, AL ZOHRA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI - 411014, Pune Nagar Road & Sangamwadi, Pune, Maharashtra, 411014"
+locality : "Al Zohra"
+parentId : 375942
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629436"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+2
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629463"
+name : "Ranosh Shawarma"
+uuid : "b4ab7eea-36a9-4b60-819f-d0b479866615"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "xstgpteaxjevttwutify"
+cuisines
+0 : "Indian"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "ranosh-shawarma-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "AL ZOHRA, S No. 6/2, OM VILLA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI, , Pune Nagar Road & Sangamwadi, Pune, , Maharashtra, 411014"
+locality : "Al Zohra"
+parentId : 375966
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629463"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+3
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629464"
+name : "Shawarma Athiya"
+uuid : "1adc728e-a110-41ca-a785-e3411631f25d"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "irgjj4ogimmvnlinj1zi"
+cuisines
+0 : "Indian"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+slaString : "45 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "shawarma-athiya-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "OM VILLA, S No. 6/2, AL ZOHRA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI, , Pune Nagar Road & Sangamwadi, Pune, , Maharashtra, 411014"
+locality : "Al Zohra"
+parentId : 375967
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629464"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+4
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629465"
+name : "Shawarma Maya"
+uuid : "a3dcb2fa-48f3-49db-bf1f-2fa6772051d7"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "zsy7ma5whcaxp8m4pq1f"
+cuisines
+0 : "Indian"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+slaString : "46 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "shawarma-maya-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, SHOP NO.3, AL ZOHRA, OM VILLA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI - 411014, Pune Nagar Road & Sangamwadi, Pune, Maharashtra, 411014"
+locality : "Al Zohra"
+parentId : 375968
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629465"
+deliveryTime : 46
+minDeliveryTime : 46
+maxDeliveryTime : 46
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+5
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629364"
+name : "Al Zohra Shawarma"
+uuid : "3d8d7860-7ea7-4b35-8d9c-fccc08e4adf2"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "ydnjm3die8h3qa26r7nz"
+cuisines
+0 : "Snacks"
+1 : "Indian"
+2 : "Fast Food"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 47
+minDeliveryTime : 47
+maxDeliveryTime : 47
+slaString : "47 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "al-zohra-shawarma-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, SHOP NO.2, AL ZOHRA, OM VILLA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI - 411014, Pune Nagar Road & Sangamwadi, Pune, Maharashtra - 411014"
+locality : "Al Zohra"
+parentId : 375922
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "20% off"
+shortDescriptionList
+0
+meta : "20% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "20% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629364"
+deliveryTime : 47
+minDeliveryTime : 47
+maxDeliveryTime : 47
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+6
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "629372"
+name : "Babylon Shawarma & Grill"
+uuid : "72d6c80d-039f-448c-92c6-f9b74a7cf33a"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "wjlagdzoljfy12lmnrla"
+cuisines
+0 : "Snacks"
+1 : "Indian"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 43
+minDeliveryTime : 43
+maxDeliveryTime : 43
+slaString : "43 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "babylon-shawarma-&-grill-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, SHOP NO.4, AL ZOHRA, OM VILLA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI - 411014, Pune Nagar Road & Sangamwadi, Pune, Maharashtra, 411014"
+locality : "Al Zohra"
+parentId : 375935
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "629372"
+deliveryTime : 43
+minDeliveryTime : 43
+maxDeliveryTime : 43
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+7
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "601398"
+name : "Al Riyan Restaurant"
+uuid : "9c98b906-9e82-4b47-b239-0dd631f21c00"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "mudk4bumuy1kgbsuchzc"
+cuisines
+0 : "Indian"
+tags
+costForTwo : 50000
+costForTwoString : "₹500 FOR TWO"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+slaString : "44 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "al-riyan-restaurant-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, SHOP NO.2, AL ZOHRA,OM VILLA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI - 411014, Pune Nagar Road & Sangamwadi, Pune, Maharashtra, 411014"
+locality : "Near Zensar It Tower"
+parentId : 358825
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "601398"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+8
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "292062"
+name : "WAGH BAKRI TEA LOUNGE"
+uuid : "d262cfa3-185f-4a2a-ad01-f96c05a3c81d"
+city : "6"
+area : "Deccan Gymkhana"
+totalRatingsString : "20+ ratings"
+cloudinaryImageId : "my0nh4ub5huxfoigbrus"
+cuisines
+0 : "Beverages"
+1 : "Fast Food"
+tags
+costForTwo : 50000
+costForTwoString : "₹500 FOR TWO"
+deliveryTime : 51
+minDeliveryTime : 51
+maxDeliveryTime : 51
+slaString : "51 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "wagh-bakri-tea-lounge-shivaji-nagar-shivaji-nagar"
+city : "pune"
+cityState : "6"
+address : "Wagh Bakri Tea lounge, Shop no 4,Amar Business Bay, Westside Building, opp sagar Arcade, Fergusson college Road,Pune"
+locality : "Opp Sagar Arcade"
+parentId : 225010
+unserviceable : false
+veg : true
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "40% off"
+shortDescriptionList
+0
+meta : "40% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "40% off up to ₹80 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "40% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "40% off up to ₹80 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "292062"
+deliveryTime : 51
+minDeliveryTime : 51
+maxDeliveryTime : 51
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "4.1"
+totalRatings : 20
+new : false
+subtype : "basic"
+9
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "601378"
+name : "RUHI RESTAURANT"
+uuid : "d7a4b08d-64f0-45e3-89bb-15434d4bef5a"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "20+ ratings"
+cloudinaryImageId : "c29xgu6utdrrehdvu0ew"
+cuisines
+0 : "Indian"
+tags
+costForTwo : 50000
+costForTwoString : "₹500 FOR TWO"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+slaString : "45 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "ruhi-restaurant-kharadi-kharadi-2"
+city : "pune"
+cityState : "6"
+address : "SHOP NO.2, OM VILLA, SOUTH MAIN ROAD,OPP.ZENSAR TECHNOLOGIES,KHARADI-411014, Pune Nagar Road & Sangamwadi, Pune, Maharashtra - 411014"
+locality : "Oppzensar Technologies"
+parentId : 358818
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "601378"
+deliveryTime : 45
+minDeliveryTime : 45
+maxDeliveryTime : 45
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "3.1"
+totalRatings : 20
+new : false
+subtype : "basic"
+10
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "561991"
+name : "Rao Chaha - Chaitanya Misal"
+uuid : "11b883eb-4ad4-4c4a-a023-232727194afb"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "gvlzflqtlfsnxgddohwy"
+cuisines
+0 : "South Indian"
+1 : "Snacks"
+tags
+costForTwo : 10000
+costForTwoString : "₹100 FOR TWO"
+deliveryTime : 43
+minDeliveryTime : 43
+maxDeliveryTime : 43
+slaString : "43 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "rao-chaha---chaitanya-misal-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "SHOP NO 1 NEAR ZENSAR IT PARK, Pune Nagar Road & Sangamwadi, Pune, Maharashtra - 411014"
+locality : "Sangamwadi"
+parentId : 338165
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "561991"
+deliveryTime : 43
+minDeliveryTime : 43
+maxDeliveryTime : 43
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+11
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "605604"
+name : "Ice N Spice"
+uuid : "61a2bb2b-0d39-476a-b98c-ce80bf06f33f"
+city : "6"
+area : "Kharadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "j3khcsath066mksdfk0z"
+cuisines
+0 : "Indian"
+tags
+costForTwo : 60000
+costForTwoString : "₹600 FOR TWO"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+slaString : "44 MINS"
+lastMileTravel : 7.699999809265137
+slugs
+restaurant : "ice-n-spice-kharadi-kharadi"
+city : "pune"
+cityState : "6"
+address : "S No. 6/2, SHOP NO.7, AL ZOHRA, OM VILLA, OPP TELEPHONE EXCHANGE, NEAR ZENSAR IT TOWER, KHARADI - 411014, Pune Nagar Road & Sangamwadi, Pune, , Maharashtra, 411014"
+locality : "Near Zensar It Tower"
+parentId : 3426
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.6 kms"
+hasSurge : false
+sla
+restaurantId : "605604"
+deliveryTime : 44
+minDeliveryTime : 44
+maxDeliveryTime : 44
+lastMileTravel : 7.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+12
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "25478"
+name : "Atharva Eggs Corner"
+uuid : "455ba6fa-59d1-45b7-881a-6229d552d9e7"
+city : "6"
+area : "Sadashiv Peth"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "wlnxyjxni2rrs5pxfo3v"
+cuisines
+0 : "Maharashtrian"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 59
+minDeliveryTime : 59
+maxDeliveryTime : 59
+slaString : "59 MINS"
+lastMileTravel : 7.900000095367432
+slugs
+restaurant : "atharva-eggs-corner-tilak-road-swargate"
+city : "pune"
+cityState : "6"
+address : "Shop 1, Rohan Chamber, Near S.P. College, Off Tilak Road, Tilak Road, Pune"
+locality : "Off Tilak Road"
+parentId : 37473
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.9 kms"
+hasSurge : false
+sla
+restaurantId : "25478"
+deliveryTime : 59
+minDeliveryTime : 59
+maxDeliveryTime : 59
+lastMileTravel : 7.900000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+13
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "594231"
+name : "THE IVY CAFE"
+uuid : "32c8e925-9f95-4f88-82dd-addd3f451bfc"
+city : "6"
+area : "Magarpatta"
+totalRatingsString : "20+ ratings"
+cloudinaryImageId : "sh0xerq4zrp29byena8y"
+cuisines
+0 : "Indian"
+1 : "Pizzas"
+2 : "Chinese"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 48
+minDeliveryTime : 48
+maxDeliveryTime : 48
+slaString : "48 MINS"
+lastMileTravel : 7.900000095367432
+slugs
+restaurant : "the-ivy-cafe-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "Shop no 3, AMANORA PLAZA , FUTURE TOWERS , AMANORA PARK TOWN , Hadapsar, Pune, Maharashtra, 411028"
+locality : "Future Towers"
+parentId : 355398
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "20% off"
+shortDescriptionList
+0
+meta : "20% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "20% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 6600
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 6600
+message : ""
+title : "Delivery Charge"
+amount : "6600"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "7.9 kms"
+hasSurge : false
+sla
+restaurantId : "594231"
+deliveryTime : 48
+minDeliveryTime : 48
+maxDeliveryTime : 48
+lastMileTravel : 7.900000095367432
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "3.7"
+totalRatings : 20
+new : false
+subtype : "basic"
+14
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "635667"
+name : "612 pizza"
+uuid : "2fbaa895-32e3-4b45-aaa4-474cecdf75ef"
+city : "6"
+area : "Magarpatta"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "gosvzlqppqcfbqjpaapd"
+cuisines
+0 : "Pizzas"
+1 : "Biryani"
+2 : "Italian-American"
+3 : "Snacks"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 54
+minDeliveryTime : 54
+maxDeliveryTime : 54
+slaString : "54 MINS"
+lastMileTravel : 8
+slugs
+restaurant : "vedant-foods-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "S NO 201, DSK ROAD, NEAR WISDOM WORLD SCHOOL, SADE SATARA NALI, HADAPSAR , HAVELI, PUNE, 411028, Hadapsar, Pune, Maharashtra - 411028"
+locality : "Hadapsar"
+parentId : 383992
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "20% off"
+shortDescriptionList
+0
+meta : "20% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "20% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 8400
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 8400
+message : ""
+title : "Delivery Charge"
+amount : "8400"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "8 kms"
+hasSurge : false
+sla
+restaurantId : "635667"
+deliveryTime : 54
+minDeliveryTime : 54
+maxDeliveryTime : 54
+lastMileTravel : 8
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+15
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "508675"
+name : "PIZZA PARADISEA"
+uuid : "548d42d9-f0fa-45b3-9853-f875ad25169f"
+city : "6"
+area : "Bibwewadi"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "ccaqqfasasuch9t1gj3j"
+cuisines
+0 : "Pizzas"
+1 : "Burgers"
+2 : "Pastas"
+3 : "Italian"
+4 : "Street Food"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 55
+minDeliveryTime : 55
+maxDeliveryTime : 55
+slaString : "55 MINS"
+lastMileTravel : 8.100000381469727
+slugs
+restaurant : "pizza-paradisea-bibwewadi-bibwewadi"
+city : "pune"
+cityState : "6"
+address : "90/713, Bibwewadi, Pune, Maharashtra - \\\\\\\\\\\\\\\\r\\\\\\\\\\\\\\\\n411037"
+locality : "Bibwewadi"
+parentId : 304366
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "50% off"
+shortDescriptionList
+0
+meta : "50% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "50% OFF"
+shortDescriptionList
+0
+meta : ""
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 8400
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 8400
+message : ""
+title : "Delivery Charge"
+amount : "8400"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "8.1 kms"
+hasSurge : false
+sla
+restaurantId : "508675"
+deliveryTime : 55
+minDeliveryTime : 55
+maxDeliveryTime : 55
+lastMileTravel : 8.100000381469727
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+nextPageFetch : 0
+tid : "862af250-d53e-43db-92db-a49b04120ba2"
+sid : "46i60446-d699-4ede-951f-397458329369"
+deviceId : "e3af9fd3-1056-4274-00d5-1aba6f52ffb5"
+csrfToken : "AH3F2AqQo0Pt-ab3hkHBOxe-ekRkI50OuP9x2sSk"
+Search:	
+ 
+GO!	
+ 
+ 
+Next	
+ 
+ 
+Previous	
+ 
+Name
+Value
+bottomBackgroundColor
+"#d12a3b"
+imageId
+"sfefefefeegeg"
+priority
+2
+text
+"Exclusive"
+textColor
+"#ffffff"
+topBackgroundColor
+"#fa4a5b"
+type
+"EXCLUSIVE"
+ 
+Online JSON Viewer
+About JSON
+JSON, short for JavaScript Object Notation, is a lightweight computer data interchange format. JSON is a text-based, human-readable format for representing simple data structures and associative arrays (called objects).
+
+Read more: json.org, wikipedia, google
+
+In JSON, they take on these forms
+JSON object
+
+JSON array
+
+JSON value
+
+JSON string
+
+JSON number
+Example
+{
+    "firstName": "John",
+    "lastName": "Smith",
+    "gender": "man",
+    "age": 32,
+    "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "212 555-1234" },
+        { "type": "fax", "number": "646 555-4567" }
+    ]
+}
+About Online JSON Viewer
+Convert JSON Strings to a Friendly Readable Format
+The application using Ext JS.
+Author: {gabor}
+
+PayPal - The safer, easier way to pay online!
+
+
+Viewer
+Text
+JSON
+statusCode : 0
+data
+pages : 48
+pageIndex : 47
+scrubber : 0
+configs
+ribbons
+PREORDER
+type : "PREORDER"
+text : "Preorder"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#d53d4c"
+bottomBackgroundColor : "#af2330"
+priority : 3
+EXCLUSIVE
+type : "EXCLUSIVE"
+text : "Exclusive"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#fa4a5b"
+bottomBackgroundColor : "#d12a3b"
+priority : 2
+NEW
+type : "NEW"
+text : "Newly Added"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#d53d4c"
+bottomBackgroundColor : "#af2330"
+priority : 4
+REPEAT
+type : "REPEAT"
+text : "Repeat"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#D53D4C"
+bottomBackgroundColor : "#B02331"
+priority : 6
+CLOUD
+type : "CLOUD"
+text : "Daily Menus"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#fa4a5b"
+bottomBackgroundColor : "#d12a3b"
+priority : 5
+PREMIUM
+type : "PREMIUM"
+text : "Premium"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#8a584b"
+bottomBackgroundColor : "#583229"
+priority : 7
+PROMOTED
+type : "PROMOTED"
+text : "Promoted"
+textColor : "#ffffff"
+imageId : "sfefefefeegeg"
+topBackgroundColor : "#3a3c41"
+bottomBackgroundColor : "#1e2023"
+priority : 1
+croutons
+RAIN
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "${amount} extra levied on some restaurants"
+SERVICEABLE_WITH_BANNER_RAIN
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "rain_crouton_4x"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Few restaurants unserviceable due to rains"
+RAIN_LOW
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Your orders may be delayed by 5-10 mins"
+RAIN_HIGH
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "Bad Weather"
+message : "Your orders may be delayed by 5-10 mins"
+SPECIAL
+type : "Crouton"
+bgColor : "#282C3F"
+icon : "surge_listing_piuzrv"
+textColor : "#ffffff"
+title : "High Demand"
+message : "Surge fee of Rs ${amount} may be applicable"
+cards
+0
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "53456"
+name : "Kokkita"
+uuid : "79948d59-b9fe-480d-b4c9-f1c304413928"
+city : "6"
+area : "Hadapsar"
+totalRatingsString : "50+ ratings"
+cloudinaryImageId : "iuui8yhzt8jufnlboqyy"
+cuisines
+0 : "Indian"
+tags
+costForTwo : 100000
+costForTwoString : "₹1000 FOR TWO"
+deliveryTime : 54
+minDeliveryTime : 54
+maxDeliveryTime : 54
+slaString : "54 MINS"
+lastMileTravel : 8.100000381469727
+slugs
+restaurant : "kokkita-hadapsar-hadapsar"
+city : "pune"
+cityState : "6"
+address : "Gadital, Malwadi Road, Near Sane Guruji Hospital, Hadapsar, Pune"
+locality : "Near Sane Guruji Hospital"
+parentId : 119727
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "20% off"
+shortDescriptionList
+0
+meta : "20% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "20% OFF"
+shortDescriptionList
+0
+meta : ""
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 8400
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 8400
+message : ""
+title : "Delivery Charge"
+amount : "8400"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "8.1 kms"
+hasSurge : false
+sla
+restaurantId : "53456"
+deliveryTime : 54
+minDeliveryTime : 54
+maxDeliveryTime : 54
+lastMileTravel : 8.100000381469727
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "4.1"
+totalRatings : 50
+new : false
+subtype : "basic"
+1
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "602120"
+name : "Sandwich Factory"
+uuid : "4e77a90d-643c-4c5e-b72f-e2be26a7cba8"
+city : "6"
+area : "Rohan Builder"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "p2jr8kies5ytm2rlgwmw"
+cuisines
+0 : "Fast Food"
+1 : "Pizzas"
+tags
+costForTwo : 25000
+costForTwoString : "₹250 FOR TWO"
+deliveryTime : 51
+minDeliveryTime : 51
+maxDeliveryTime : 51
+slaString : "51 MINS"
+lastMileTravel : 8
+slugs
+restaurant : "sandwich-factory-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "SHOP NO.3,ROHAN BUILDER,UMANG BUILDING,DP ROAD,17/5 NALI,NEAR SIDDHESHWAR HOTEL,HADAPSAR,PUNE-411028 ,,Hadapsar,Pune,Maharashtra-411028"
+locality : "Magarpatta"
+parentId : 5308
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "20% off"
+shortDescriptionList
+0
+meta : "20% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "20% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off up to ₹50 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 8400
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 8400
+message : ""
+title : "Delivery Charge"
+amount : "8400"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "8 kms"
+hasSurge : false
+sla
+restaurantId : "602120"
+deliveryTime : 51
+minDeliveryTime : 51
+maxDeliveryTime : 51
+lastMileTravel : 8
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+2
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "561668"
+name : "Pizza Hot"
+uuid : "1cbf1dfc-78aa-40f3-9a63-aa2688fbe7bd"
+city : "6"
+area : "Swargate"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "xtcfblqauo1agswmstau"
+cuisines
+0 : "Pizzas"
+1 : "Burgers"
+2 : "Pastas"
+3 : "Italian"
+4 : "Street Food"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 58
+minDeliveryTime : 58
+maxDeliveryTime : 58
+slaString : "58 MINS"
+lastMileTravel : 8.100000381469727
+slugs
+restaurant : "pizza-hot-swargate-swargate"
+city : "pune"
+cityState : "6"
+address : "90/713, MAHARSHI NAGAR, Near Thakur Beckry Pune, Maharashtra"
+locality : "Maharshi Nagar"
+parentId : 158639
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "50% off"
+shortDescriptionList
+0
+meta : "50% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "50% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 8400
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 8400
+message : ""
+title : "Delivery Charge"
+amount : "8400"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "8.1 kms"
+hasSurge : false
+sla
+restaurantId : "561668"
+deliveryTime : 58
+minDeliveryTime : 58
+maxDeliveryTime : 58
+lastMileTravel : 8.100000381469727
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+3
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "644796"
+name : "Cheesiano Pizza"
+uuid : "3e9e3883-6f99-4e5f-8b07-714c38ae22e0"
+city : "6"
+area : "Kondhwa"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "787207fc39bccd868a13c5ece219f959"
+cuisines
+0 : "Pizzas"
+1 : "Pastas"
+tags
+costForTwo : 30000
+costForTwoString : "₹300 FOR TWO"
+deliveryTime : 70
+minDeliveryTime : 70
+maxDeliveryTime : 70
+slaString : "70 MINS"
+lastMileTravel : 8.100000381469727
+slugs
+restaurant : "cheesiano-pizza-kondhwa-kondhwa-2"
+city : "pune"
+cityState : "6"
+address : "SHOP.NO.A-LG-2,GROUND FLOOR,ONE PLACE,CTS.NO.1379,1384 & 1369,WANWADI,NEAR SALUNKE VIHAR,PUNE-411040, Hadapsar, Pune, Maharashtra, 411040"
+locality : "Salunke vihar"
+parentId : 59203
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "50% off"
+shortDescriptionList
+0
+meta : "50% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "50% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 8400
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 8400
+message : ""
+title : "Delivery Charge"
+amount : "8400"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "8.1 kms"
+hasSurge : false
+sla
+restaurantId : "644796"
+deliveryTime : 70
+minDeliveryTime : 70
+maxDeliveryTime : 70
+lastMileTravel : 8.100000381469727
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+4
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "569227"
+name : "The Twisterwala"
+uuid : "71b2c4f1-df3a-4552-b2a6-3c3583d028a3"
+city : "6"
+area : "Wanowrie"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "dsataynztiuqwpu8ldsy"
+cuisines
+0 : "Fast Food"
+1 : "Snacks"
+tags
+costForTwo : 25000
+costForTwoString : "₹250 FOR TWO"
+deliveryTime : 53
+minDeliveryTime : 53
+maxDeliveryTime : 53
+slaString : "53 MINS"
+lastMileTravel : 8.199999809265137
+slugs
+restaurant : "the-twisterwala-wanowrie-wanowrie"
+city : "pune"
+cityState : "6"
+address : "Near Kedari Petrol Pump Samvidhan Chowk Wanowrie, PUNE"
+locality : "Wanowrie"
+parentId : 341984
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 8400
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 8400
+message : ""
+title : "Delivery Charge"
+amount : "8400"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "8.1 kms"
+hasSurge : false
+sla
+restaurantId : "569227"
+deliveryTime : 53
+minDeliveryTime : 53
+maxDeliveryTime : 53
+lastMileTravel : 8.199999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+5
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "563047"
+name : "SAI SIDDHI SNACKS AND FAST FOOD"
+uuid : "a1a8ed5a-1500-47fa-8129-09ddc31c6ee3"
+city : "6"
+area : "Magarpatta"
+totalRatingsString : "20+ ratings"
+cloudinaryImageId : "i9r8t0gxk7wevmbqzch1"
+cuisines
+0 : "South Indian"
+1 : "North Indian"
+2 : "Fast Food"
+3 : "Chaat"
+4 : "Street Food"
+5 : "Beverages"
+tags
+costForTwo : 20000
+costForTwoString : "₹200 FOR TWO"
+deliveryTime : 48
+minDeliveryTime : 48
+maxDeliveryTime : 48
+slaString : "48 MINS"
+lastMileTravel : 8.399999618530273
+slugs
+restaurant : "sai-siddhi-snacks-and-fast-food-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "shop no-1 Handball stadium, DP Rd, Pune, malwadi hadapsar Maharashtra 411028"
+locality : "Handball Stadium"
+parentId : 338902
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "15% off"
+shortDescriptionList
+0
+meta : "15% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "15% off up to ₹45 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "15% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "15% off up to ₹45 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 8400
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 8400
+message : ""
+title : "Delivery Charge"
+amount : "8400"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "8.3 kms"
+hasSurge : false
+sla
+restaurantId : "563047"
+deliveryTime : 48
+minDeliveryTime : 48
+maxDeliveryTime : 48
+lastMileTravel : 8.399999618530273
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "3.6"
+totalRatings : 20
+new : false
+subtype : "basic"
+6
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "229738"
+name : "Piazza pizza by Little Italy"
+uuid : "54b9efa3-b6b1-4efa-b2f8-1936984278a4"
+city : "6"
+area : "Shivajinagar"
+totalRatingsString : "100+ ratings"
+cloudinaryImageId : "oe0nduurigzubgbbjrhc"
+cuisines
+0 : "Pizzas"
+1 : "Salads"
+2 : "Italian"
+3 : "Mexican"
+4 : "Desserts"
+5 : "Beverages"
+tags
+costForTwo : 50000
+costForTwoString : "₹500 FOR TWO"
+deliveryTime : 56
+minDeliveryTime : 56
+maxDeliveryTime : 56
+slaString : "56 MINS"
+lastMileTravel : 8.399999618530273
+slugs
+restaurant : "piazza-ganeshkhind-rd-shivaji-nagar"
+city : "pune"
+cityState : "6"
+address : "Park Plaza, 465/C1, CTS - 1085, Ganeshkhind Rd, next to Central Mall, Shivajinagar, Pune, Maharashtra 411005"
+locality : "Ganeshkhind Rd"
+parentId : 9080
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "40% off"
+shortDescriptionList
+0
+meta : "40% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "40% off up to ₹80 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "40% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "40% off up to ₹80 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 8400
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 8400
+message : ""
+title : "Delivery Charge"
+amount : "8400"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "8.3 kms"
+hasSurge : false
+sla
+restaurantId : "229738"
+deliveryTime : 56
+minDeliveryTime : 56
+maxDeliveryTime : 56
+lastMileTravel : 8.399999618530273
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "3.9"
+totalRatings : 100
+new : false
+subtype : "basic"
+7
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "14160"
+name : "Shee Chinese"
+uuid : "b1d8a173-e9e4-4e8a-818c-4b3bf53f322c"
+city : "6"
+area : "Kondhwa"
+totalRatingsString : "100+ ratings"
+cloudinaryImageId : "irdxhwym36hlqgspmkzc"
+cuisines
+0 : "Chinese"
+1 : "Asian"
+2 : "Thai"
+tags
+costForTwo : 40000
+costForTwoString : "₹400 FOR TWO"
+deliveryTime : 48
+minDeliveryTime : 48
+maxDeliveryTime : 48
+slaString : "48 MINS"
+lastMileTravel : 8.5
+slugs
+restaurant : "shee-chinese-kondhwa-kondhwa"
+city : "pune"
+cityState : "6"
+address : "5, Kubera Park, Lulla Nagar, Kondhwa Road, Kondhwa, Pune"
+locality : "Kubera Park Lullanagar"
+parentId : 182583
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "50% off"
+shortDescriptionList
+0
+meta : "50% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "50% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "50% off up to ₹100 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 8400
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 8400
+message : ""
+title : "Delivery Charge"
+amount : "8400"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "8.5 kms"
+hasSurge : false
+sla
+restaurantId : "14160"
+deliveryTime : 48
+minDeliveryTime : 48
+maxDeliveryTime : 48
+lastMileTravel : 8.5
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "4.2"
+totalRatings : 100
+new : false
+subtype : "basic"
+8
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "485591"
+name : "KVC South Delight"
+uuid : "49010571-1d38-4229-a595-892446ce2aec"
+city : "6"
+area : "Magarpatta"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "zj4fctxpwhchqluk6tm8"
+cuisines
+0 : "North Indian"
+1 : "South Indian"
+2 : "Indian"
+3 : "Fast Food"
+4 : "Desserts"
+tags
+costForTwo : 25000
+costForTwoString : "₹250 FOR TWO"
+deliveryTime : 52
+minDeliveryTime : 52
+maxDeliveryTime : 52
+slaString : "52 MINS"
+lastMileTravel : 8.399999618530273
+slugs
+restaurant : "kvc-south-delight-magarpatta-magarpatta"
+city : "pune"
+cityState : "6"
+address : "SR. NO. 209, TUPE COMPLEX, SHOP NO. 1 & 2, OPPOSITE HANDBALL STADIUM, D. P. ROAD, HADAPSAR, PUNE Hadapsar Pune PMC & Rural Maharashtra"
+locality : "D P Road"
+parentId : 291507
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "10% off"
+shortDescriptionList
+0
+meta : "10% off | Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "10% OFF"
+shortDescriptionList
+0
+meta : "Use TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "10% off up to ₹40 | Use code TRYNEW"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 8400
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 8400
+message : ""
+title : "Delivery Charge"
+amount : "8400"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "8.3 kms"
+hasSurge : false
+sla
+restaurantId : "485591"
+deliveryTime : 52
+minDeliveryTime : 52
+maxDeliveryTime : 52
+lastMileTravel : 8.399999618530273
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : false
+subtype : "basic"
+9
+cardType : "restaurant"
+layoutAlignmentType : "VERTICAL"
+data
+type : "restaurant"
+data
+type : "F"
+id : "646023"
+name : "The Doner Guys"
+uuid : "4c0367a0-6e8a-4dee-b5b2-edb9a0bffe86"
+city : "6"
+area : "Kondhwa"
+totalRatingsString : "Too Few Ratings"
+cloudinaryImageId : "1d94935845b289f528314d568edf767a"
+cuisines
+0 : "Snacks"
+1 : "Lebanese"
+tags
+costForTwo : 40000
+costForTwoString : "₹400 FOR TWO"
+deliveryTime : 53
+minDeliveryTime : 53
+maxDeliveryTime : 53
+slaString : "53 MINS"
+lastMileTravel : 8.699999809265137
+slugs
+restaurant : "the-doner-guys-kondhwa-kondhwa"
+city : "pune"
+cityState : "6"
+address : "Radiant Paradise A, Ganga Satellite, Clover Village, Wanwadi, Pune, Maharashtra 411040, India"
+locality : "Wanwadi"
+parentId : 389620
+unserviceable : false
+veg : false
+select : false
+favorite : false
+tradeCampaignHeaders
+aggregatedDiscountInfo
+header : "20% off"
+shortDescriptionList
+0
+meta : "20% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+aggregatedDiscountInfoV2
+header : "20% OFF"
+shortDescriptionList
+0
+meta : ""
+discountType : "Percentage"
+operationType : "RESTAURANT"
+descriptionList
+0
+meta : "20% off on all orders"
+discountType : "Percentage"
+operationType : "RESTAURANT"
+subHeader : ""
+headerType : 0
+superFreedel : ""
+ribbon
+0
+type : "NEW"
+chain
+feeDetails
+fees
+0
+name : "distance"
+fee : 8400
+message : ""
+1
+name : "time"
+fee : 0
+message : ""
+2
+name : "special"
+fee : 0
+message : ""
+totalFees : 8400
+message : ""
+title : "Delivery Charge"
+amount : "8400"
+icon : ""
+availability
+opened : true
+nextOpenMessage : ""
+nextCloseMessage : ""
+longDistanceEnabled : 1
+rainMode : "NONE"
+thirdPartyAddress : false
+thirdPartyVendor : ""
+adTrackingID : ""
+badges
+imageBased
+textBased
+textExtendedBadges
+lastMileTravelString : "8.6 kms"
+hasSurge : false
+sla
+restaurantId : "646023"
+deliveryTime : 53
+minDeliveryTime : 53
+maxDeliveryTime : 53
+lastMileTravel : 8.699999809265137
+lastMileDistance : 0
+serviceability : "SERVICEABLE"
+rainMode : "NONE"
+longDistance : "IT_IS_LONG_DISTANCE"
+preferentialService : false
+iconType : "EMPTY"
+promoted : false
+avgRating : "--"
+totalRatings : 0
+new : true
+subtype : "basic"
+nextPageFetch : 0
+tid : "862af250-d53e-43db-92db-a49b04120ba2"
+sid : "46i60446-d699-4ede-951f-397458329369"
+deviceId : "e3af9fd3-1056-4274-00d5-1aba6f52ffb5"
+csrfToken : "zpugNotZsALE-4sd-7vDyne53dGFoVtAuxClC_Hk"
+Search:	
+ 
+GO!	
+ 
+ 
+Next	
+ 
+ 
+Previous	
+ 
+Name
+Value
+bottomBackgroundColor
+"#af2330"
+imageId
+"sfefefefeegeg"
+priority
+4
+text
+"Newly Added"
+textColor
+"#ffffff"
+topBackgroundColor
+"#d53d4c"
+type
+"NEW"
+ 
+Online JSON Viewer
+About JSON
+JSON, short for JavaScript Object Notation, is a lightweight computer data interchange format. JSON is a text-based, human-readable format for representing simple data structures and associative arrays (called objects).
+
+Read more: json.org, wikipedia, google
+
+In JSON, they take on these forms
+JSON object
+
+JSON array
+
+JSON value
+
+JSON string
+
+JSON number
+Example
+{
+    "firstName": "John",
+    "lastName": "Smith",
+    "gender": "man",
+    "age": 32,
+    "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "212 555-1234" },
+        { "type": "fax", "number": "646 555-4567" }
+    ]
+}
+About Online JSON Viewer
+Convert JSON Strings to a Friendly Readable Format
+The application using Ext JS.
+Author: {gabor}
+
+PayPal - The safer, easier way to pay online!
+
+
